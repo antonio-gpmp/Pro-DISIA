@@ -9,14 +9,15 @@ Este script permite limpiar y reestructurar los datos meteorológicos de precipi
 ## Uso
 Para ejecutar el script, utiliza uno de los siguientes comandos según la versión de Python instalada en tu sistema:
 
-### En sistemas con `python3`:
-```bash
-python3 convert_precipitation.py precipitaciones-22.json limpio_precipitaciones-22.json
-```
 
 ### En sistemas con `python`:
 ```bash
 python convert_precipitation.py precipitaciones-22.json limpio_precipitaciones-22.json
+```
+
+### En sistemas con `python3`:
+```bash
+python3 convert_precipitation.py precipitaciones-22.json limpio_precipitaciones-22.json
 ```
 
 ## Parámetros

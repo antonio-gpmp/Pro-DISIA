@@ -9,9 +9,16 @@ Este script permite limpiar y reestructurar los datos de precios de productos, e
 ## Uso
 Para ejecutar el script, utiliza el siguiente comando en la terminal:
 
+### En sistemas con `python`:
 ```bash
-python procesar_precios_json.py precios_2023.json limpio_precios_2023.json
+python transform_precios.py precios_2023.json limpio_precios_2023.json
 ```
+
+### En sistemas con `python3`:
+```bash
+python3 transform_precios.py precios_2023.json limpio_precios_2023.json
+```
+
 
 ## Parámetros
 - `precios_2023.json` → Archivo de entrada con los datos sin procesar.
