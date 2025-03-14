@@ -10,7 +10,11 @@ Este script permite limpiar y reestructurar los datos de cosechas, extrayendo la
 Para ejecutar el script, utiliza el siguiente comando en la terminal:
 
 ```bash
-python procesar_cosechas_json.py cosecha2023.json limpio_cosecha2023.json
+python transform_cosecha.py cosecha2023.json limpio_cosecha2023.json
+```
+
+```bash
+python3 transform_cosecha.py cosecha2023.json limpio_cosecha2023.json
 ```
 
 ## Parámetros
