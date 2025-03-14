@@ -12,12 +12,12 @@ Para ejecutar el script, utiliza uno de los siguientes comandos según la versi�
 
 ### En sistemas con `python`:
 ```bash
-python convert_precipitation.py precipitaciones-22.json limpio_precipitaciones-22.json
+python transform_precipitation.py precipitaciones-22.json limpio_precipitaciones-22.json
 ```
 
 ### En sistemas con `python3`:
 ```bash
-python3 convert_precipitation.py precipitaciones-22.json limpio_precipitaciones-22.json
+python3 transform_precipitation.py precipitaciones-22.json limpio_precipitaciones-22.json
 ```
 
 ## Parámetros
