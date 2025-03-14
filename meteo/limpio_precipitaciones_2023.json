@@ -1,0 +1,53 @@
+{
+    "ALICANTE": {
+        "ENE": 2.1,
+        "FEB": 12.6,
+        "MAR": 3.2,
+        "ABR": 0.7,
+        "MAY": 118.4,
+        "JUN": 17.3,
+        "JUL": 2.0,
+        "AGO": 5.2,
+        "SEP": 37.9,
+        "OCT": 3.1,
+        "NOV": 0.2,
+        "DIC": 2.9,
+        "TOTAL": 244.8,
+        "MEDIA": 319.0,
+        "Unidad": "l/m2"
+    },
+    "CASTELLON": {
+        "ENE": 1.3,
+        "FEB": 33.5,
+        "MAR": 0.4,
+        "ABR": 5.3,
+        "MAY": 68.0,
+        "JUN": 24.9,
+        "JUL": 10.1,
+        "AGO": 20.3,
+        "SEP": 139.6,
+        "OCT": 3.9,
+        "NOV": 1.2,
+        "DIC": 4.0,
+        "TOTAL": 311.5,
+        "MEDIA": 461.1,
+        "Unidad": "l/m2"
+    },
+    "VALENCIA": {
+        "ENE": 2.6,
+        "FEB": 49.7,
+        "MAR": 1.0,
+        "ABR": 1.0,
+        "MAY": 64.5,
+        "JUN": 30.8,
+        "JUL": 14.1,
+        "AGO": 13.8,
+        "SEP": 99.5,
+        "OCT": 3.7,
+        "NOV": 1.0,
+        "DIC": 3.1,
+        "TOTAL": 306.9,
+        "MEDIA": 521.7,
+        "Unidad": "l/m2"
+    }
+}
