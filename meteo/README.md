@@ -12,17 +12,17 @@ Para ejecutar el script, utiliza uno de los siguientes comandos según la versi�
 
 ### En sistemas con `python`:
 ```bash
-python transform_precipitation.py precipitaciones-22.json limpio_precipitaciones-22.json
+python transform_precipitation.py precipitaciones-22.json limpio_precipitaciones_2022.json
 ```
 
 ### En sistemas con `python3`:
 ```bash
-python3 transform_precipitation.py precipitaciones-22.json limpio_precipitaciones-22.json
+python3 transform_precipitation.py precipitaciones-22.json limpio_precipitaciones_2022.json
 ```
 
 ## Parámetros
 - `precipitaciones-22.json` → Archivo de entrada con los datos sin procesar.
-- `limpio_precipitaciones-22.json` → Archivo de salida con los datos transformados.
+- `limpio_precipitaciones_2022.json` → Archivo de salida con los datos transformados.
 
 ## Funcionamiento
 1. Convierte valores de texto a formato numérico (float/int).
