@@ -1,0 +1,520 @@
+[
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "ARROZ CÁSCARA",
+    "COMUNITAT\nVALENCIANA": "0,620",
+    "ALICANTE": "-",
+    "CASTELLÓN": "-",
+    "VALENCIA": "0,620"
+  },
+  {
+    "PRODUCTOS": "CEBADA (2 carreras)",
+    "COMUNITAT\nVALENCIANA": "0,239",
+    "ALICANTE": "0,239",
+    "CASTELLÓN": "0,239",
+    "VALENCIA": "0,239"
+  },
+  {
+    "PRODUCTOS": "MAÍZ GRANO",
+    "COMUNITAT\nVALENCIANA": "0,254",
+    "ALICANTE": "0,254",
+    "CASTELLÓN": "0,254",
+    "VALENCIA": "0,254"
+  },
+  {
+    "PRODUCTOS": "PATATA EXTRATEMP Y TEMPRANA",
+    "COMUNITAT\nVALENCIANA": "0,522",
+    "ALICANTE": "0,644",
+    "CASTELLÓN": "0,615",
+    "VALENCIA": "0,484"
+  },
+  {
+    "PRODUCTOS": "PATATA MED ESTAC Y TARDIA",
+    "COMUNITAT\nVALENCIANA": "0,507",
+    "ALICANTE": "0,507",
+    "CASTELLÓN": "-",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "CHUFA",
+    "COMUNITAT\nVALENCIANA": "0,818",
+    "ALICANTE": "-",
+    "CASTELLÓN": "-",
+    "VALENCIA": "0,818"
+  },
+  {
+    "PRODUCTOS": "HENO DE ALFALFA",
+    "COMUNITAT\nVALENCIANA": "0,306",
+    "ALICANTE": "0,306",
+    "CASTELLÓN": "0,306",
+    "VALENCIA": "0,306"
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "NAVELINA",
+    "COMUNITAT\nVALENCIANA": "0,261",
+    "ALICANTE": "0,302",
+    "CASTELLÓN": "0,289",
+    "VALENCIA": "0,255"
+  },
+  {
+    "PRODUCTOS": "W. NAVEL",
+    "COMUNITAT\nVALENCIANA": "0,255",
+    "ALICANTE": "0,240",
+    "CASTELLÓN": "0,270",
+    "VALENCIA": "0,255"
+  },
+  {
+    "PRODUCTOS": "NAVEL LANE LATE",
+    "COMUNITAT\nVALENCIANA": "0,381",
+    "ALICANTE": "0,433",
+    "CASTELLÓN": "0,360",
+    "VALENCIA": "0,365"
+  },
+  {
+    "PRODUCTOS": "SALUSTIANA",
+    "COMUNITAT\nVALENCIANA": "0,225",
+    "ALICANTE": "0,260",
+    "CASTELLÓN": "0,233",
+    "VALENCIA": "0,217"
+  },
+  {
+    "PRODUCTOS": "VALENCIA LATE",
+    "COMUNITAT\nVALENCIANA": "0,419",
+    "ALICANTE": "0,427",
+    "CASTELLÓN": "0,406",
+    "VALENCIA": "0,418"
+  },
+  {
+    "PRODUCTOS": "CLAUSELLINA-OKITSU",
+    "COMUNITAT\nVALENCIANA": "0,317",
+    "ALICANTE": "0,386",
+    "CASTELLÓN": "0,324",
+    "VALENCIA": "0,312"
+  },
+  {
+    "PRODUCTOS": "SATSUMA-OWARI",
+    "COMUNITAT\nVALENCIANA": "0,269",
+    "ALICANTE": "0,281",
+    "CASTELLÓN": "0,280",
+    "VALENCIA": "0,269"
+  },
+  {
+    "PRODUCTOS": "CLEMENRUBI",
+    "COMUNITAT\nVALENCIANA": "0,585",
+    "ALICANTE": "0,735",
+    "CASTELLÓN": "0,604",
+    "VALENCIA": "0,562"
+  },
+  {
+    "PRODUCTOS": "MARISOL",
+    "COMUNITAT\nVALENCIANA": "0,384",
+    "ALICANTE": "0,431",
+    "CASTELLÓN": "0,442",
+    "VALENCIA": "0,337"
+  },
+  {
+    "PRODUCTOS": "CLEMENTINA DE NULES",
+    "COMUNITAT\nVALENCIANA": "0,413",
+    "ALICANTE": "0,382",
+    "CASTELLÓN": "0,445",
+    "VALENCIA": "0,375"
+  },
+  {
+    "PRODUCTOS": "CLEMENTINA HERNANDINA",
+    "COMUNITAT\nVALENCIANA": "0,499",
+    "ALICANTE": "0,499",
+    "CASTELLÓN": "0,499",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "CLEMENVILLA O NOVA",
+    "COMUNITAT\nVALENCIANA": "0,414",
+    "ALICANTE": "0,436",
+    "CASTELLÓN": "0,470",
+    "VALENCIA": "0,398"
+  },
+  {
+    "PRODUCTOS": "ORTANIQUE",
+    "COMUNITAT\nVALENCIANA": "0,302",
+    "ALICANTE": "0,294",
+    "CASTELLÓN": "0,305",
+    "VALENCIA": "0,302"
+  },
+  {
+    "PRODUCTOS": "NADORCOTT",
+    "COMUNITAT\nVALENCIANA": "0,791",
+    "ALICANTE": "0,850",
+    "CASTELLÓN": "0,694",
+    "VALENCIA": "0,762"
+  },
+  {
+    "PRODUCTOS": "OTRAS MANDARINAS HÍBRIDAS",
+    "COMUNITAT\nVALENCIANA": "0,852",
+    "ALICANTE": "0,907",
+    "CASTELLÓN": "0,898",
+    "VALENCIA": "0,794"
+  },
+  {
+    "PRODUCTOS": "LIMÓN VERNA",
+    "COMUNITAT\nVALENCIANA": "0,452",
+    "ALICANTE": "0,452",
+    "CASTELLÓN": "-",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "LIMÓN FINO (Mesero)",
+    "COMUNITAT\nVALENCIANA": "0,318",
+    "ALICANTE": "0,318",
+    "CASTELLÓN": "-",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "MANZANA CONSUMO FRESCO",
+    "COMUNITAT\nVALENCIANA": "1,144",
+    "ALICANTE": "1,144",
+    "CASTELLÓN": "-",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "NISPERO",
+    "COMUNITAT\nVALENCIANA": "0,965",
+    "ALICANTE": "0,964",
+    "CASTELLÓN": "-",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "ALBARICOQUE CONSUMO EN FRESCO",
+    "COMUNITAT\nVALENCIANA": "0,745",
+    "ALICANTE": "1,220",
+    "CASTELLÓN": "-",
+    "VALENCIA": "0,595"
+  },
+  {
+    "PRODUCTOS": "MELOCOTÓN  CONSUMO EN FRESCO",
+    "COMUNITAT\nVALENCIANA": "0,747",
+    "ALICANTE": "-",
+    "CASTELLÓN": "-",
+    "VALENCIA": "0,747"
+  },
+  {
+    "PRODUCTOS": "NECTARINA",
+    "COMUNITAT\nVALENCIANA": "0,800",
+    "ALICANTE": "-",
+    "CASTELLÓN": "-",
+    "VALENCIA": "0,800"
+  },
+  {
+    "PRODUCTOS": "CEREZA",
+    "COMUNITAT\nVALENCIANA": "4,580",
+    "ALICANTE": "4,660",
+    "CASTELLÓN": "4,150",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "CIRUELA",
+    "COMUNITAT\nVALENCIANA": "0,866",
+    "ALICANTE": "0,866",
+    "CASTELLÓN": "-",
+    "VALENCIA": "0,866"
+  },
+  {
+    "PRODUCTOS": "HIGOS Y BREVAS",
+    "COMUNITAT\nVALENCIANA": "1,781",
+    "ALICANTE": "1,781",
+    "CASTELLÓN": "-",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "GRANADA",
+    "COMUNITAT\nVALENCIANA": "0,511",
+    "ALICANTE": "0,511",
+    "CASTELLÓN": "-",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "CAQUI",
+    "COMUNITAT\nVALENCIANA": "0,467",
+    "ALICANTE": "-",
+    "CASTELLÓN": "-",
+    "VALENCIA": "0,467"
+  },
+  {
+    "PRODUCTOS": "UVA DE MESA",
+    "COMUNITAT\nVALENCIANA": "0,912",
+    "ALICANTE": "0,912",
+    "CASTELLÓN": "-",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "ALMENDRA CASCARA",
+    "COMUNITAT\nVALENCIANA": "0,910",
+    "ALICANTE": "0,904",
+    "CASTELLÓN": "0,895",
+    "VALENCIA": "0,930"
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "LECHUGA TOTAL",
+    "COMUNITAT\nVALENCIANA": "0,377",
+    "ALICANTE": "0,442",
+    "CASTELLÓN": "0,327",
+    "VALENCIA": "0,289"
+  },
+  {
+    "PRODUCTOS": "COLIFLOR",
+    "COMUNITAT\nVALENCIANA": "0,847",
+    "ALICANTE": "0,772",
+    "CASTELLÓN": "0,840",
+    "VALENCIA": "0,925"
+  },
+  {
+    "PRODUCTOS": "TOMATE CONSUMO EN FRESCO",
+    "COMUNITAT\nVALENCIANA": "1,427",
+    "ALICANTE": "1,506",
+    "CASTELLÓN": "1,337",
+    "VALENCIA": "1,054"
+  },
+  {
+    "PRODUCTOS": "CEBOLLA",
+    "COMUNITAT\nVALENCIANA": "1,063",
+    "ALICANTE": "1,293",
+    "CASTELLÓN": "0,691",
+    "VALENCIA": "1,018"
+  },
+  {
+    "PRODUCTOS": "PIMIENTO CONSUMO EN FRESCO",
+    "COMUNITAT\nVALENCIANA": "0,997",
+    "ALICANTE": "1,007",
+    "CASTELLÓN": "1,364",
+    "VALENCIA": "0,923"
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "ALCACHOFA consumo fresco",
+    "COMUNITAT\nVALENCIANA": "1,364",
+    "ALICANTE": "1,223",
+    "CASTELLÓN": "1,491",
+    "VALENCIA": "1,387"
+  },
+  {
+    "PRODUCTOS": "ALCACHOFA industria",
+    "COMUNITAT\nVALENCIANA": "0,597",
+    "ALICANTE": "0,636",
+    "CASTELLÓN": "0,610",
+    "VALENCIA": "0,348"
+  },
+  {
+    "PRODUCTOS": "MELÓN",
+    "COMUNITAT\nVALENCIANA": "0,828",
+    "ALICANTE": "0,705",
+    "CASTELLÓN": "1,266",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "SANDÍA",
+    "COMUNITAT\nVALENCIANA": "0,612",
+    "ALICANTE": "0,475",
+    "CASTELLÓN": "0,606",
+    "VALENCIA": "0,649"
+  },
+  {
+    "PRODUCTOS": "JUDÍA VERDE (Plana)",
+    "COMUNITAT\nVALENCIANA": "3,526",
+    "ALICANTE": "2,611",
+    "CASTELLÓN": "3,942",
+    "VALENCIA": "2,310"
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "VINO BLANCO DOP+IGP  (R(CE) 479/2008)",
+    "COMUNITAT\nVALENCIANA": "53,449",
+    "ALICANTE": "39,00",
+    "CASTELLÓN": "-",
+    "VALENCIA": "55,211"
+  },
+  {
+    "PRODUCTOS": "VINO BLANCO VARIETAL+OTROS (R(CE) 479/2008)",
+    "COMUNITAT\nVALENCIANA": "52,680",
+    "ALICANTE": "-",
+    "CASTELLÓN": "-",
+    "VALENCIA": "52,680"
+  },
+  {
+    "PRODUCTOS": "VINO TINTO Y ROSADO DOP+IGP (R(CE) 479/2008)",
+    "COMUNITAT\nVALENCIANA": "40,736",
+    "ALICANTE": "42,050",
+    "CASTELLÓN": "-",
+    "VALENCIA": "40,480"
+  },
+  {
+    "PRODUCTOS": "VINO TINTO Y ROSADO VARIETAL+OTROS (R(CE) 479/2008)",
+    "COMUNITAT\nVALENCIANA": "46,233",
+    "ALICANTE": "36,500",
+    "CASTELLÓN": "-",
+    "VALENCIA": "46,687"
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "Aceite de Oliva Virgen extra de < 0,8º (R(CE)1513/2001)",
+    "COMUNITAT\nVALENCIANA": "6,248",
+    "ALICANTE": "6,040",
+    "CASTELLÓN": "6,093",
+    "VALENCIA": "6,495"
+  },
+  {
+    "PRODUCTOS": "Aceite de Oliva Virgen de 0,8º a  2º (R(CE)1513/2001)",
+    "COMUNITAT\nVALENCIANA": "5,763",
+    "ALICANTE": "5,510",
+    "CASTELLÓN": "5,776",
+    "VALENCIA": "6,015"
+  },
+  {
+    "PRODUCTOS": "Aceite de Oliva Virgen de > 2º (R(CE)1513/2001)",
+    "COMUNITAT\nVALENCIANA": "5,150",
+    "ALICANTE": "5,157",
+    "CASTELLÓN": "5,016",
+    "VALENCIA": "5,729"
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "FLOR CORTADA CLAVELES (euros/docena)",
+    "COMUNITAT\nVALENCIANA": "1,636",
+    "ALICANTE": "1,636",
+    "CASTELLÓN": "-",
+    "VALENCIA": "-"
+  },
+  {
+    "PRODUCTOS": "FLOR CORTADA ROSAS (euros/docena)",
+    "COMUNITAT\nVALENCIANA": "6,463",
+    "ALICANTE": "5,588",
+    "CASTELLÓN": "-",
+    "VALENCIA": "9,792"
+  },
+  {
+    "PRODUCTOS": "",
+    "COMUNITAT\nVALENCIANA": "",
+    "ALICANTE": "",
+    "CASTELLÓN": "",
+    "VALENCIA": ""
+  },
+  {
+    "PRODUCTOS": "TERNEROS (kg vivo)",
+    "COMUNITAT\nVALENCIANA": "2,898",
+    "ALICANTE": "2,898",
+    "CASTELLÓN": "2,898",
+    "VALENCIA": "2,898"
+  },
+  {
+    "PRODUCTOS": "NOVILLAS (kg vivo)",
+    "COMUNITAT\nVALENCIANA": "2,672",
+    "ALICANTE": "2,672",
+    "CASTELLÓN": "2,672",
+    "VALENCIA": "2,672"
+  },
+  {
+    "PRODUCTOS": "CORDERO PASCUAL (kg vivo)",
+    "COMUNITAT\nVALENCIANA": "4,059",
+    "ALICANTE": "4,059",
+    "CASTELLÓN": "4,059",
+    "VALENCIA": "4,059"
+  },
+  {
+    "PRODUCTOS": "CERDOS CEBO (kg vivo)",
+    "COMUNITAT\nVALENCIANA": "1,871",
+    "ALICANTE": "1,871",
+    "CASTELLÓN": "1,871",
+    "VALENCIA": "1,871"
+  },
+  {
+    "PRODUCTOS": "POLLO GRANJA (kg vivo)",
+    "COMUNITAT\nVALENCIANA": "1,315",
+    "ALICANTE": "1,315",
+    "CASTELLÓN": "1,315",
+    "VALENCIA": "1,315"
+  },
+  {
+    "PRODUCTOS": "CONEJOS (kg vivo)",
+    "COMUNITAT\nVALENCIANA": "2,610",
+    "ALICANTE": "2,610",
+    "CASTELLÓN": "2,610",
+    "VALENCIA": "2,610"
+  },
+  {
+    "PRODUCTOS": "LECHE VACA (euros/litro)",
+    "COMUNITAT\nVALENCIANA": "0,564",
+    "ALICANTE": "0,566",
+    "CASTELLÓN": "0,566",
+    "VALENCIA": "0,563"
+  },
+  {
+    "PRODUCTOS": "HUEVOS  (euros/docena)",
+    "COMUNITAT\nVALENCIANA": "1,752",
+    "ALICANTE": "1,969",
+    "CASTELLÓN": "1,969",
+    "VALENCIA": "1,705"
+  }
+]

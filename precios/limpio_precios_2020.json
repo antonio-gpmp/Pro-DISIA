@@ -1,0 +1,338 @@
+{
+    "ARROZ CÁSCARA": {
+        "COMUNITAT VALENCIANA": 0.329,
+        "ALICANTE": 0,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0.329
+    },
+    "CEBADA (2 carreras)": {
+        "COMUNITAT VALENCIANA": 0.154,
+        "ALICANTE": 0.154,
+        "CASTELLÓN": 0.154,
+        "VALENCIA": 0.154
+    },
+    "MAÍZ GRANO": {
+        "COMUNITAT VALENCIANA": 0.195,
+        "ALICANTE": 0.195,
+        "CASTELLÓN": 0.195,
+        "VALENCIA": 0.195
+    },
+    "PATATA EXTRATEMP Y TEMPRANA": {
+        "COMUNITAT VALENCIANA": 0.173,
+        "ALICANTE": 0.26,
+        "CASTELLÓN": 0.263,
+        "VALENCIA": 0.144
+    },
+    "PATATA MED ESTAC Y TARDIA": {
+        "COMUNITAT VALENCIANA": 0.405,
+        "ALICANTE": 0.405,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0
+    },
+    "CHUFA": {
+        "COMUNITAT VALENCIANA": 0.8,
+        "ALICANTE": 0,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0.8
+    },
+    "HENO DE ALFALFA": {
+        "COMUNITAT VALENCIANA": 0.155,
+        "ALICANTE": 0.155,
+        "CASTELLÓN": 0.155,
+        "VALENCIA": 0.155
+    },
+    "NAVELINA": {
+        "COMUNITAT VALENCIANA": 0.204,
+        "ALICANTE": 0.207,
+        "CASTELLÓN": 0.196,
+        "VALENCIA": 0.204
+    },
+    "W. NAVEL": {
+        "COMUNITAT VALENCIANA": 0.211,
+        "ALICANTE": 0.234,
+        "CASTELLÓN": 0.209,
+        "VALENCIA": 0.207
+    },
+    "NAVEL LANE LATE": {
+        "COMUNITAT VALENCIANA": 0.298,
+        "ALICANTE": 0.373,
+        "CASTELLÓN": 0.271,
+        "VALENCIA": 0.275
+    },
+    "SALUSTIANA": {
+        "COMUNITAT VALENCIANA": 0.205,
+        "ALICANTE": 0.197,
+        "CASTELLÓN": 0.203,
+        "VALENCIA": 0.207
+    },
+    "VALENCIA LATE": {
+        "COMUNITAT VALENCIANA": 0.406,
+        "ALICANTE": 0.514,
+        "CASTELLÓN": 0.445,
+        "VALENCIA": 0.378
+    },
+    "CLAUSELLINA-OKITSU": {
+        "COMUNITAT VALENCIANA": 0.252,
+        "ALICANTE": 0.268,
+        "CASTELLÓN": 0.24,
+        "VALENCIA": 0.251
+    },
+    "SATSUMA-OWARI": {
+        "COMUNITAT VALENCIANA": 0.221,
+        "ALICANTE": 0.236,
+        "CASTELLÓN": 0.225,
+        "VALENCIA": 0.221
+    },
+    "CLEMENRUBI": {
+        "COMUNITAT VALENCIANA": 0.476,
+        "ALICANTE": 0.708,
+        "CASTELLÓN": 0.609,
+        "VALENCIA": 0.409
+    },
+    "MARISOL": {
+        "COMUNITAT VALENCIANA": 0.279,
+        "ALICANTE": 0.301,
+        "CASTELLÓN": 0.299,
+        "VALENCIA": 0.262
+    },
+    "CLEMENTINA DE NULES": {
+        "COMUNITAT VALENCIANA": 0.251,
+        "ALICANTE": 0.293,
+        "CASTELLÓN": 0.26,
+        "VALENCIA": 0.236
+    },
+    "CLEMENTINA HERNANDINA": {
+        "COMUNITAT VALENCIANA": 0.433,
+        "ALICANTE": 0.39,
+        "CASTELLÓN": 0.437,
+        "VALENCIA": 0
+    },
+    "CLEMENVILLA O NOVA": {
+        "COMUNITAT VALENCIANA": 0.347,
+        "ALICANTE": 0.328,
+        "CASTELLÓN": 0.341,
+        "VALENCIA": 0.352
+    },
+    "ORTANIQUE": {
+        "COMUNITAT VALENCIANA": 0.237,
+        "ALICANTE": 0.249,
+        "CASTELLÓN": 0.228,
+        "VALENCIA": 0.237
+    },
+    "NADORCOTT": {
+        "COMUNITAT VALENCIANA": 0.747,
+        "ALICANTE": 0.798,
+        "CASTELLÓN": 0.78,
+        "VALENCIA": 0.705
+    },
+    "OTRAS MANDARINAS HÍBRIDAS": {
+        "COMUNITAT VALENCIANA": 0.714,
+        "ALICANTE": 0.689,
+        "CASTELLÓN": 0.829,
+        "VALENCIA": 0.68
+    },
+    "LIMÓN VERNA": {
+        "COMUNITAT VALENCIANA": 0.474,
+        "ALICANTE": 0.474,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0
+    },
+    "LIMÓN FINO (Mesero)": {
+        "COMUNITAT VALENCIANA": 0.347,
+        "ALICANTE": 0.347,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0
+    },
+    "MANZANA CONSUMO FRESCO": {
+        "COMUNITAT VALENCIANA": 1.013,
+        "ALICANTE": 1.013,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0
+    },
+    "PERA CONSUMO EN FRESCO": {
+        "COMUNITAT VALENCIANA": 0.85,
+        "ALICANTE": 0.85,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0
+    },
+    "NISPERO": {
+        "COMUNITAT VALENCIANA": 0.823,
+        "ALICANTE": 0.821,
+        "CASTELLÓN": 0.859,
+        "VALENCIA": 0
+    },
+    "ALBARICOQUE CONSUMO EN FRESCO": {
+        "COMUNITAT VALENCIANA": 0.838,
+        "ALICANTE": 0.825,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0.842
+    },
+    "MELOCOTÓN  CONSUMO EN FRESCO": {
+        "COMUNITAT VALENCIANA": 0.862,
+        "ALICANTE": 0,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0.862
+    },
+    "NECTARINA": {
+        "COMUNITAT VALENCIANA": 0.839,
+        "ALICANTE": 0,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0.839
+    },
+    "CEREZA": {
+        "COMUNITAT VALENCIANA": 3.142,
+        "ALICANTE": 3.029,
+        "CASTELLÓN": 3.75,
+        "VALENCIA": 0
+    },
+    "CIRUELA": {
+        "COMUNITAT VALENCIANA": 0.63,
+        "ALICANTE": 0.75,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0.501
+    },
+    "HIGOS Y BREVAS": {
+        "COMUNITAT VALENCIANA": 1.534,
+        "ALICANTE": 1.534,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0
+    },
+    "GRANADA": {
+        "COMUNITAT VALENCIANA": 0.613,
+        "ALICANTE": 0.613,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0
+    },
+    "CAQUI": {
+        "COMUNITAT VALENCIANA": 0.386,
+        "ALICANTE": 0,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0.386
+    },
+    "UVA DE MESA": {
+        "COMUNITAT VALENCIANA": 0.65,
+        "ALICANTE": 0.65,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0
+    },
+    "ALMENDRA CASCARA": {
+        "COMUNITAT VALENCIANA": 0.889,
+        "ALICANTE": 0.858,
+        "CASTELLÓN": 0.973,
+        "VALENCIA": 0.864
+    },
+    "LECHUGA TOTAL": {
+        "COMUNITAT VALENCIANA": 0.303,
+        "ALICANTE": 0.346,
+        "CASTELLÓN": 0.263,
+        "VALENCIA": 0.251
+    },
+    "COLIFLOR": {
+        "COMUNITAT VALENCIANA": 0.559,
+        "ALICANTE": 0.522,
+        "CASTELLÓN": 0.466,
+        "VALENCIA": 0.669
+    },
+    "TOMATE CONSUMO EN FRESCO": {
+        "COMUNITAT VALENCIANA": 0.811,
+        "ALICANTE": 0.803,
+        "CASTELLÓN": 0.859,
+        "VALENCIA": 0.763
+    },
+    "CEBOLLA": {
+        "COMUNITAT VALENCIANA": 0.734,
+        "ALICANTE": 1.114,
+        "CASTELLÓN": 0.29,
+        "VALENCIA": 0.644
+    },
+    "PIMIENTO CONSUMO EN FRESCO": {
+        "COMUNITAT VALENCIANA": 0.71,
+        "ALICANTE": 0.733,
+        "CASTELLÓN": 0.816,
+        "VALENCIA": 0.658
+    },
+    "ALCACHOFA consumo fresco": {
+        "COMUNITAT VALENCIANA": 0.91,
+        "ALICANTE": 0.795,
+        "CASTELLÓN": 0.919,
+        "VALENCIA": 1.018
+    },
+    "ALCACHOFA industria": {
+        "COMUNITAT VALENCIANA": 0.343,
+        "ALICANTE": 0.372,
+        "CASTELLÓN": 0.341,
+        "VALENCIA": 0.17
+    },
+    "MELÓN": {
+        "COMUNITAT VALENCIANA": 0.476,
+        "ALICANTE": 0.396,
+        "CASTELLÓN": 0.758,
+        "VALENCIA": 0
+    },
+    "SANDÍA": {
+        "COMUNITAT VALENCIANA": 0.161,
+        "ALICANTE": 0.121,
+        "CASTELLÓN": 0.186,
+        "VALENCIA": 0.164
+    },
+    "JUDÍA VERDE (Plana)": {
+        "COMUNITAT VALENCIANA": 2.423,
+        "ALICANTE": 2.439,
+        "CASTELLÓN": 2.506,
+        "VALENCIA": 2.057
+    },
+    "VINO BLANCO DOP+IGP  (R(CE) 479/2008)": {
+        "COMUNITAT VALENCIANA": 49.16,
+        "ALICANTE": 29.3,
+        "CASTELLÓN": 0,
+        "VALENCIA": 51.59
+    },
+    "VINO BLANCO VARIETAL+OTROS (R(CE) 479/2008)": {
+        "COMUNITAT VALENCIANA": 35.64,
+        "ALICANTE": 0,
+        "CASTELLÓN": 0,
+        "VALENCIA": 35.64
+    },
+    "VINO TINTO Y ROSADO DOP+IGP (R(CE) 479/2008)": {
+        "COMUNITAT VALENCIANA": 36.29,
+        "ALICANTE": 37.6,
+        "CASTELLÓN": 0,
+        "VALENCIA": 36.03
+    },
+    "VINO TINTO Y ROSADO VARIETAL+OTROS (R(CE) 479/2008)": {
+        "COMUNITAT VALENCIANA": 34.89,
+        "ALICANTE": 32.6,
+        "CASTELLÓN": 0,
+        "VALENCIA": 35.0
+    },
+    "Aceite de Oliva Virgen extra de < 0,8º (R(CE)1513/2001)": {
+        "COMUNITAT VALENCIANA": 2.183,
+        "ALICANTE": 2.13,
+        "CASTELLÓN": 2.394,
+        "VALENCIA": 2.195
+    },
+    "Aceite de Oliva Virgen de 0,8º a  2º (R(CE)1513/2001)": {
+        "COMUNITAT VALENCIANA": 1.961,
+        "ALICANTE": 1.935,
+        "CASTELLÓN": 1.996,
+        "VALENCIA": 1.97
+    },
+    "Aceite de Oliva Virgen de > 2º (R(CE)1513/2001)": {
+        "COMUNITAT VALENCIANA": 1.707,
+        "ALICANTE": 1.835,
+        "CASTELLÓN": 1.666,
+        "VALENCIA": 1.78
+    },
+    "FLOR CORTADA CLAVELES (euros/docena)": {
+        "COMUNITAT VALENCIANA": 1.28,
+        "ALICANTE": 1.28,
+        "CASTELLÓN": 0,
+        "VALENCIA": 0
+    },
+    "FLOR CORTADA ROSAS (euros/docena)": {
+        "COMUNITAT VALENCIANA": 5.449,
+        "ALICANTE": 4.611,
+        "CASTELLÓN": 0,
+        "VALENCIA": 8.631
+    }
+}
