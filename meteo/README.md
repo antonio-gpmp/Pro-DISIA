@@ -36,6 +36,3 @@ El script generará un nuevo archivo JSON con los datos limpios y estructurados,
 - Asegúrate de tener los permisos adecuados para ejecutar el script.
 - Si el script no se ejecuta, verifica que tienes Python correctamente instalado y agregado al `PATH`.
 
----
-
-¡Listo! Ahora puedes ejecutar la limpieza de datos de forma sencilla y eficiente. 🚀
