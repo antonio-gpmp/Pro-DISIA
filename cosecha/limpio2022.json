@@ -1,0 +1,864 @@
+{
+    "COMUNIDAD VALENCIANA": [
+        {
+            "CULTIVOS": "ARROZ",
+            "2022-superficie": 15021.0,
+            "2022-produccion": 90848.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2022-superficie": 5100.0,
+            "2022-produccion": 9931.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2022-superficie": 13085.0,
+            "2022-produccion": 23906.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2022-superficie": 352.0,
+            "2022-produccion": 4040.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2022-superficie": 2402.0,
+            "2022-produccion": 73388.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2022-superficie": 610.0,
+            "2022-produccion": 9091.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2022-superficie": 4853.0,
+            "2022-produccion": 75032.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2022-superficie": 261.0,
+            "2022-produccion": 12742.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2022-superficie": 3198.0,
+            "2022-produccion": 68806.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2022-superficie": 1784.0,
+            "2022-produccion": 82580.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2022-superficie": 1821.0,
+            "2022-produccion": 74931.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2022-superficie": 1464.0,
+            "2022-produccion": 37982.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2022-superficie": 540.0,
+            "2022-produccion": 16333.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2022-superficie": 373.0,
+            "2022-produccion": 7474.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2022-superficie": 520.0,
+            "2022-produccion": 5449.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2022-superficie": 259.0,
+            "2022-produccion": 4341.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2022-superficie": 1714.0,
+            "2022-produccion": 57485.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2022-superficie": 1201.0,
+            "2022-produccion": 35108.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2022-superficie": 138.0,
+            "2022-produccion": 5915.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2022-superficie": 918.0,
+            "2022-produccion": 55868.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2022-superficie": 1501.0,
+            "2022-produccion": 70246.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2022-superficie": 1067.0,
+            "2022-produccion": 63029.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2022-superficie": 1405.0,
+            "2022-produccion": 61755.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2022-superficie": 78.0,
+            "2022-produccion": 2901.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2022-superficie": 2185.0,
+            "2022-produccion": 115659.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2022-superficie": 71648.0,
+            "2022-produccion": 1416555.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2022-superficie": 64852.0,
+            "2022-produccion": 1226795.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2022-superficie": 17367.0,
+            "2022-produccion": 242830.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2022-superficie": 530.0,
+            "2022-produccion": 4323.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2022-superficie": 260.0,
+            "2022-produccion": 2630.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2022-superficie": 1079.0,
+            "2022-produccion": 14030.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2022-superficie": 2981.0,
+            "2022-produccion": 14972.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2022-superficie": 2605.0,
+            "2022-produccion": 3313.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2022-superficie": 3684.0,
+            "2022-produccion": 30207.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2022-superficie": 1381.0,
+            "2022-produccion": 11675.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2022-superficie": 3678.0,
+            "2022-produccion": 56724.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2022-superficie": 14639.0,
+            "2022-produccion": 407085.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2022-superficie": 2310.0,
+            "2022-produccion": 12848.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2022-superficie": 91400.0,
+            "2022-produccion": 33786.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2022-superficie": 5317.0,
+            "2022-produccion": 97231.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2022-superficie": 56773.0,
+            "2022-produccion": 310324.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2022-superficie": 93151.0,
+            "2022-produccion": 44699.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2022-superficie": 17244.0,
+            "2022-produccion": 13869.0
+        },
+        {
+            "CULTIVOS": "ARROZ (CÁSCARA)",
+            "2022-superficie": 414.0,
+            "2022-produccion": 794.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2022-superficie": 1482.0,
+            "2022-produccion": 3482.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2022-superficie": 2574.0,
+            "2022-produccion": 4616.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2022-superficie": 200.0,
+            "2022-produccion": 2399.0
+        },
+        {
+            "CULTIVOS": "PATATA TOTAL",
+            "2022-superficie": 946.0,
+            "2022-produccion": 20034.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2022-superficie": 0.0,
+            "2022-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2022-superficie": 2651.0,
+            "2022-produccion": 38485.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2022-superficie": 50.0,
+            "2022-produccion": 2620.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2022-superficie": 2945.0,
+            "2022-produccion": 63097.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2022-superficie": 457.0,
+            "2022-produccion": 19404.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2022-superficie": 366.0,
+            "2022-produccion": 16018.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2022-superficie": 547.0,
+            "2022-produccion": 13675.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2022-superficie": 165.0,
+            "2022-produccion": 5445.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2022-superficie": 170.0,
+            "2022-produccion": 3740.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2022-superficie": 367.0,
+            "2022-produccion": 4404.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2022-superficie": 42.0,
+            "2022-produccion": 630.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2022-superficie": 861.0,
+            "2022-produccion": 27164.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2022-superficie": 848.0,
+            "2022-produccion": 25487.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2022-superficie": 46.0,
+            "2022-produccion": 2380.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2022-superficie": 421.0,
+            "2022-produccion": 28450.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2022-superficie": 308.0,
+            "2022-produccion": 14445.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2022-superficie": 386.0,
+            "2022-produccion": 37294.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2022-superficie": 837.0,
+            "2022-produccion": 50122.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2022-superficie": 59.0,
+            "2022-produccion": 2224.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2022-superficie": 418.0,
+            "2022-produccion": 23163.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2022-superficie": 9951.0,
+            "2022-produccion": 185704.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2022-superficie": 6799.0,
+            "2022-produccion": 128454.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2022-superficie": 16990.0,
+            "2022-produccion": 240572.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2022-superficie": 381.0,
+            "2022-produccion": 3152.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2022-superficie": 127.0,
+            "2022-produccion": 1362.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2022-superficie": 908.0,
+            "2022-produccion": 12804.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2022-superficie": 615.0,
+            "2022-produccion": 1385.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2022-superficie": 1948.0,
+            "2022-produccion": 1838.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2022-superficie": 434.0,
+            "2022-produccion": 2328.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2022-superficie": 331.0,
+            "2022-produccion": 1713.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2022-superficie": 3031.0,
+            "2022-produccion": 50091.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2022-superficie": 87.0,
+            "2022-produccion": 175.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2022-superficie": 497.0,
+            "2022-produccion": 1502.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2022-superficie": 22174.0,
+            "2022-produccion": 7927.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2022-superficie": 5091.0,
+            "2022-produccion": 96980.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2022-superficie": 10295.0,
+            "2022-produccion": 28934.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2022-superficie": 29250.0,
+            "2022-produccion": 28237.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2022-superficie": 765.0,
+            "2022-produccion": 943.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2022-superficie": 148.0,
+            "2022-produccion": 1020.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2022-superficie": 720.0,
+            "2022-produccion": 1117.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2022-superficie": 2877.0,
+            "2022-produccion": 3890.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2022-superficie": 64.0,
+            "2022-produccion": 233.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2022-superficie": 437.0,
+            "2022-produccion": 10941.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2022-superficie": 0.0,
+            "2022-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2022-superficie": 1175.0,
+            "2022-produccion": 17214.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2022-superficie": 92.0,
+            "2022-produccion": 2625.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2022-superficie": 209.0,
+            "2022-produccion": 4389.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2022-superficie": 206.0,
+            "2022-produccion": 4683.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2022-superficie": 542.0,
+            "2022-produccion": 17885.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2022-superficie": 301.0,
+            "2022-produccion": 7465.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2022-superficie": 257.0,
+            "2022-produccion": 6425.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2022-superficie": 10.0,
+            "2022-produccion": 225.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2022-superficie": 62.0,
+            "2022-produccion": 558.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2022-superficie": 127.0,
+            "2022-produccion": 2406.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2022-superficie": 386.0,
+            "2022-produccion": 9335.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2022-superficie": 251.0,
+            "2022-produccion": 5949.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2022-superficie": 69.0,
+            "2022-produccion": 2190.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2022-superficie": 125.0,
+            "2022-produccion": 3238.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2022-superficie": 358.0,
+            "2022-produccion": 9876.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2022-superficie": 493.0,
+            "2022-produccion": 17115.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2022-superficie": 321.0,
+            "2022-produccion": 5835.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2022-superficie": 5.0,
+            "2022-produccion": 125.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2022-superficie": 438.0,
+            "2022-produccion": 41462.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2022-superficie": 6979.0,
+            "2022-produccion": 124083.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2022-superficie": 24656.0,
+            "2022-produccion": 502235.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2022-superficie": 87.0,
+            "2022-produccion": 595.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2022-superficie": 53.0,
+            "2022-produccion": 385.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2022-superficie": 101.0,
+            "2022-produccion": 1032.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2022-superficie": 133.0,
+            "2022-produccion": 713.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2022-superficie": 141.0,
+            "2022-produccion": 804.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2022-superficie": 570.0,
+            "2022-produccion": 1350.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2022-superficie": 316.0,
+            "2022-produccion": 2119.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2022-superficie": 80.0,
+            "2022-produccion": 551.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2022-superficie": 118.0,
+            "2022-produccion": 2160.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2022-superficie": 152.0,
+            "2022-produccion": 2025.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2022-superficie": 633.0,
+            "2022-produccion": 2100.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2022-superficie": 34000.0,
+            "2022-produccion": 10577.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2022-superficie": 38.0,
+            "2022-produccion": 77.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2022-superficie": 731.0,
+            "2022-produccion": 217.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2022-superficie": 32173.0,
+            "2022-produccion": 5306.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2022-superficie": 7725.0,
+            "2022-produccion": 3650.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2022-superficie": 14459.0,
+            "2022-produccion": 89034.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2022-superficie": 2898.0,
+            "2022-produccion": 5332.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2022-superficie": 7634.0,
+            "2022-produccion": 15400.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2022-superficie": 88.0,
+            "2022-produccion": 1408.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2022-superficie": 1019.0,
+            "2022-produccion": 42413.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2022-superficie": 610.0,
+            "2022-produccion": 9091.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2022-superficie": 1027.0,
+            "2022-produccion": 19333.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2022-superficie": 119.0,
+            "2022-produccion": 7497.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2022-superficie": 44.0,
+            "2022-produccion": 1320.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2022-superficie": 1121.0,
+            "2022-produccion": 58493.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2022-superficie": 913.0,
+            "2022-produccion": 41028.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2022-superficie": 616.0,
+            "2022-produccion": 16842.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2022-superficie": 118.0,
+            "2022-produccion": 4463.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2022-superficie": 193.0,
+            "2022-produccion": 3509.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2022-superficie": 91.0,
+            "2022-produccion": 487.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2022-superficie": 90.0,
+            "2022-produccion": 1305.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2022-superficie": 467.0,
+            "2022-produccion": 20986.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2022-superficie": 102.0,
+            "2022-produccion": 3672.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2022-superficie": 23.0,
+            "2022-produccion": 1345.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2022-superficie": 372.0,
+            "2022-produccion": 24180.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2022-superficie": 835.0,
+            "2022-produccion": 45925.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2022-superficie": 188.0,
+            "2022-produccion": 8620.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2022-superficie": 247.0,
+            "2022-produccion": 5798.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2022-superficie": 14.0,
+            "2022-produccion": 552.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2022-superficie": 1329.0,
+            "2022-produccion": 51034.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2022-superficie": 54718.0,
+            "2022-produccion": 1106768.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2022-superficie": 33397.0,
+            "2022-produccion": 596106.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2022-superficie": 290.0,
+            "2022-produccion": 1663.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2022-superficie": 96.0,
+            "2022-produccion": 786.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2022-superficie": 32.0,
+            "2022-produccion": 236.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2022-superficie": 38.0,
+            "2022-produccion": 513.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2022-superficie": 2225.0,
+            "2022-produccion": 12783.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2022-superficie": 87.0,
+            "2022-produccion": 125.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2022-superficie": 2934.0,
+            "2022-produccion": 25760.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2022-superficie": 970.0,
+            "2022-produccion": 9411.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2022-superficie": 529.0,
+            "2022-produccion": 4473.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2022-superficie": 14400.0,
+            "2022-produccion": 404885.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2022-superficie": 1180.0,
+            "2022-produccion": 9246.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2022-superficie": 35226.0,
+            "2022-produccion": 15282.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2022-superficie": 188.0,
+            "2022-produccion": 174.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2022-superficie": 45747.0,
+            "2022-produccion": 281173.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2022-superficie": 31728.0,
+            "2022-produccion": 11156.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2022-superficie": 8754.0,
+            "2022-produccion": 9276.0
+        }
+    ]
+}

@@ -47,7 +47,7 @@ mapeo_cultivos_productos = {
 # 🟢 Cargar los JSON limpios (cosechas, precios y meteorología)
 años = list(range(2018, 2024))
 
-cosechas = {año: json.load(open(f"./cosecha/limpio_cosecha{año}.json", "r", encoding="utf-8")) for año in años}
+cosechas = {año: json.load(open(f"./cosecha/limpio{año}.json", "r", encoding="utf-8")) for año in años}
 precios = {año: json.load(open(f"./precios/limpio_precios_{año}.json", "r", encoding="utf-8")) for año in años}
 meteo = {año: json.load(open(f"./meteo/limpio_precipitaciones_{año}.json", "r", encoding="utf-8")) for año in años}
 

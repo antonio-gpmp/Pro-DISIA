@@ -1,0 +1,844 @@
+{
+    "COMUNIDAD VALENCIANA": [
+        {
+            "CULTIVOS": "ARROZ",
+            "2018-superficie": 15374.0,
+            "2018-produccion": 128645.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2018-superficie": 4399.0,
+            "2018-produccion": 10693.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2018-superficie": 14126.0,
+            "2018-produccion": 31016.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2018-superficie": 485.0,
+            "2018-produccion": 4253.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2018-superficie": 2231.0,
+            "2018-produccion": 65291.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2018-superficie": 546.0,
+            "2018-produccion": 8845.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2018-superficie": 4431.0,
+            "2018-produccion": 59189.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2018-superficie": 262.0,
+            "2018-produccion": 13518.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2018-superficie": 2448.0,
+            "2018-produccion": 53645.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2018-superficie": 1866.0,
+            "2018-produccion": 91509.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2018-superficie": 1106.0,
+            "2018-produccion": 54994.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2018-superficie": 1297.0,
+            "2018-produccion": 30841.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2018-superficie": 590.0,
+            "2018-produccion": 15007.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2018-superficie": 513.0,
+            "2018-produccion": 10491.0
+        },
+        {
+            "CULTIVOS": "HABAS VERDES",
+            "2018-superficie": 619.0,
+            "2018-produccion": 6053.0
+        },
+        {
+            "CULTIVOS": "JUDÍAS VERDES",
+            "2018-superficie": 428.0,
+            "2018-produccion": 6471.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2018-superficie": 1980.0,
+            "2018-produccion": 59573.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2018-superficie": 1486.0,
+            "2018-produccion": 38973.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2018-superficie": 159.0,
+            "2018-produccion": 6844.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2018-superficie": 830.0,
+            "2018-produccion": 58092.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2018-superficie": 1548.0,
+            "2018-produccion": 73741.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2018-superficie": 1245.0,
+            "2018-produccion": 76663.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2018-superficie": 1695.0,
+            "2018-produccion": 83630.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2018-superficie": 125.0,
+            "2018-produccion": 5717.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2018-superficie": 1797.0,
+            "2018-produccion": 52799.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2018-superficie": 70025.0,
+            "2018-produccion": 1930742.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2018-superficie": 75731.0,
+            "2018-produccion": 1775455.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2018-superficie": 12773.0,
+            "2018-produccion": 329020.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2018-superficie": 692.0,
+            "2018-produccion": 9938.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2018-superficie": 402.0,
+            "2018-produccion": 5069.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2018-superficie": 1075.0,
+            "2018-produccion": 15798.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2018-superficie": 3715.0,
+            "2018-produccion": 24435.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2018-superficie": 2779.0,
+            "2018-produccion": 7833.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2018-superficie": 4727.0,
+            "2018-produccion": 41471.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2018-superficie": 1660.0,
+            "2018-produccion": 10780.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2018-superficie": 3987.0,
+            "2018-produccion": 59486.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2018-superficie": 16089.0,
+            "2018-produccion": 425075.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2018-superficie": 91867.0,
+            "2018-produccion": 35211.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2018-superficie": 5531.0,
+            "2018-produccion": 88550.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2018-superficie": 58729.0,
+            "2018-produccion": 247930.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2018-superficie": 92952.0,
+            "2018-produccion": 98085.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2018-superficie": 17494.0,
+            "2018-produccion": 10899.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2018-superficie": 415.0,
+            "2018-produccion": 1660.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2018-superficie": 1133.0,
+            "2018-produccion": 2476.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2018-superficie": 2751.0,
+            "2018-produccion": 4617.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2018-superficie": 210.0,
+            "2018-produccion": 2299.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2018-superficie": 798.0,
+            "2018-produccion": 19155.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2018-superficie": 0.0,
+            "2018-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2018-superficie": 2320.0,
+            "2018-produccion": 29928.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2018-superficie": 75.0,
+            "2018-produccion": 4095.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2018-superficie": 2380.0,
+            "2018-produccion": 52360.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2018-superficie": 470.0,
+            "2018-produccion": 17650.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2018-superficie": 189.0,
+            "2018-produccion": 8118.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2018-superficie": 380.0,
+            "2018-produccion": 8740.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2018-superficie": 260.0,
+            "2018-produccion": 6760.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2018-superficie": 307.0,
+            "2018-produccion": 6754.0
+        },
+        {
+            "CULTIVOS": "HABAS VERDES",
+            "2018-superficie": 460.0,
+            "2018-produccion": 5060.0
+        },
+        {
+            "CULTIVOS": "JUDÍAS VERDES",
+            "2018-superficie": 55.0,
+            "2018-produccion": 605.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2018-superficie": 1165.0,
+            "2018-produccion": 31770.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2018-superficie": 1075.0,
+            "2018-produccion": 28500.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2018-superficie": 70.0,
+            "2018-produccion": 3525.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2018-superficie": 346.0,
+            "2018-produccion": 34810.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2018-superficie": 255.0,
+            "2018-produccion": 12495.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2018-superficie": 544.0,
+            "2018-produccion": 51330.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2018-superficie": 1155.0,
+            "2018-produccion": 74780.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2018-superficie": 101.0,
+            "2018-produccion": 4904.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2018-superficie": 363.0,
+            "2018-produccion": 7753.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2018-superficie": 11668.0,
+            "2018-produccion": 289001.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2018-superficie": 6900.0,
+            "2018-produccion": 149094.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2018-superficie": 12628.0,
+            "2018-produccion": 326007.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2018-superficie": 508.0,
+            "2018-produccion": 8017.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2018-superficie": 209.0,
+            "2018-produccion": 2883.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2018-superficie": 836.0,
+            "2018-produccion": 14727.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2018-superficie": 525.0,
+            "2018-produccion": 5692.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2018-superficie": 2110.0,
+            "2018-produccion": 6700.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2018-superficie": 538.0,
+            "2018-produccion": 6844.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2018-superficie": 383.0,
+            "2018-produccion": 3576.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2018-superficie": 3208.0,
+            "2018-produccion": 52533.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2018-superficie": 71.0,
+            "2018-produccion": 638.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2018-superficie": 21982.0,
+            "2018-produccion": 14188.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2018-superficie": 5345.0,
+            "2018-produccion": 88090.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2018-superficie": 10597.0,
+            "2018-produccion": 30479.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2018-superficie": 28160.0,
+            "2018-produccion": 46846.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2018-superficie": 752.0,
+            "2018-produccion": 695.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2018-superficie": 153.0,
+            "2018-produccion": 1193.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2018-superficie": 879.0,
+            "2018-produccion": 1182.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2018-superficie": 3030.0,
+            "2018-produccion": 3567.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2018-superficie": 154.0,
+            "2018-produccion": 502.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2018-superficie": 437.0,
+            "2018-produccion": 10688.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2018-superficie": 0.0,
+            "2018-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2018-superficie": 1075.0,
+            "2018-produccion": 13311.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2018-superficie": 70.0,
+            "2018-produccion": 2009.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2018-superficie": 68.0,
+            "2018-produccion": 1285.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2018-superficie": 257.0,
+            "2018-produccion": 5519.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2018-superficie": 393.0,
+            "2018-produccion": 11471.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2018-superficie": 412.0,
+            "2018-produccion": 9476.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2018-superficie": 235.0,
+            "2018-produccion": 5111.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2018-superficie": 13.0,
+            "2018-produccion": 263.0
+        },
+        {
+            "CULTIVOS": "HABAS VERDES",
+            "2018-superficie": 64.0,
+            "2018-produccion": 518.0
+        },
+        {
+            "CULTIVOS": "JUDÍAS VERDES",
+            "2018-superficie": 279.0,
+            "2018-produccion": 4703.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2018-superficie": 379.0,
+            "2018-produccion": 8093.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2018-superficie": 305.0,
+            "2018-produccion": 6657.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2018-superficie": 66.0,
+            "2018-produccion": 1971.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2018-superficie": 131.0,
+            "2018-produccion": 3146.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2018-superficie": 461.0,
+            "2018-produccion": 10776.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2018-superficie": 527.0,
+            "2018-produccion": 17394.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2018-superficie": 291.0,
+            "2018-produccion": 5769.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2018-superficie": 5.0,
+            "2018-produccion": 228.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2018-superficie": 174.0,
+            "2018-produccion": 6158.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2018-superficie": 6171.0,
+            "2018-produccion": 141000.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2018-superficie": 28496.0,
+            "2018-produccion": 680862.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2018-superficie": 49.0,
+            "2018-produccion": 1220.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2018-superficie": 75.0,
+            "2018-produccion": 641.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2018-superficie": 149.0,
+            "2018-produccion": 1566.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2018-superficie": 170.0,
+            "2018-produccion": 849.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2018-superficie": 190.0,
+            "2018-produccion": 946.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2018-superficie": 590.0,
+            "2018-produccion": 1023.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2018-superficie": 378.0,
+            "2018-produccion": 2082.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2018-superficie": 101.0,
+            "2018-produccion": 660.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2018-superficie": 95.0,
+            "2018-produccion": 221.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2018-superficie": 215.0,
+            "2018-produccion": 1788.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2018-superficie": 36691.0,
+            "2018-produccion": 6590.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2018-superficie": 95.0,
+            "2018-produccion": 254.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2018-superficie": 770.0,
+            "2018-produccion": 1458.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2018-superficie": 32930.0,
+            "2018-produccion": 12303.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2018-superficie": 7777.0,
+            "2018-produccion": 2018.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2018-superficie": 14806.0,
+            "2018-produccion": 125792.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2018-superficie": 2387.0,
+            "2018-produccion": 7035.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2018-superficie": 8345.0,
+            "2018-produccion": 22832.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2018-superficie": 121.0,
+            "2018-produccion": 1452.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2018-superficie": 996.0,
+            "2018-produccion": 35448.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2018-superficie": 546.0,
+            "2018-produccion": 8845.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2018-superficie": 1036.0,
+            "2018-produccion": 15950.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2018-superficie": 117.0,
+            "2018-produccion": 7414.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2018-superficie": 0.0,
+            "2018-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2018-superficie": 1139.0,
+            "2018-produccion": 68340.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2018-superficie": 524.0,
+            "2018-produccion": 35405.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2018-superficie": 505.0,
+            "2018-produccion": 12625.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2018-superficie": 95.0,
+            "2018-produccion": 3136.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2018-superficie": 193.0,
+            "2018-produccion": 3474.0
+        },
+        {
+            "CULTIVOS": "HABAS VERDES",
+            "2018-superficie": 95.0,
+            "2018-produccion": 475.0
+        },
+        {
+            "CULTIVOS": "JUDÍAS VERDES",
+            "2018-superficie": 94.0,
+            "2018-produccion": 1163.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2018-superficie": 436.0,
+            "2018-produccion": 19710.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2018-superficie": 106.0,
+            "2018-produccion": 3816.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2018-superficie": 23.0,
+            "2018-produccion": 1348.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2018-superficie": 353.0,
+            "2018-produccion": 20136.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2018-superficie": 832.0,
+            "2018-produccion": 50470.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2018-superficie": 174.0,
+            "2018-produccion": 7939.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2018-superficie": 249.0,
+            "2018-produccion": 3081.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2018-superficie": 19.0,
+            "2018-produccion": 585.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2018-superficie": 1260.0,
+            "2018-produccion": 38888.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2018-superficie": 52186.0,
+            "2018-produccion": 1500741.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2018-superficie": 40335.0,
+            "2018-produccion": 945499.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2018-superficie": 96.0,
+            "2018-produccion": 1793.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2018-superficie": 109.0,
+            "2018-produccion": 1280.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2018-superficie": 44.0,
+            "2018-produccion": 620.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2018-superficie": 69.0,
+            "2018-produccion": 222.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2018-superficie": 3000.0,
+            "2018-produccion": 17797.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2018-superficie": 79.0,
+            "2018-produccion": 110.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2018-superficie": 3811.0,
+            "2018-produccion": 32545.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2018-superficie": 1176.0,
+            "2018-produccion": 6544.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2018-superficie": 684.0,
+            "2018-produccion": 6732.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2018-superficie": 15803.0,
+            "2018-produccion": 422649.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2018-superficie": 33194.0,
+            "2018-produccion": 14433.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2018-superficie": 91.0,
+            "2018-produccion": 206.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2018-superficie": 47362.0,
+            "2018-produccion": 215993.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2018-superficie": 31862.0,
+            "2018-produccion": 38936.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2018-superficie": 8965.0,
+            "2018-produccion": 8186.0
+        }
+    ]
+}

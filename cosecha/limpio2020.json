@@ -1,0 +1,864 @@
+{
+    "COMUNIDAD VALENCIANA": [
+        {
+            "CULTIVOS": "ARROZ",
+            "2020-superficie": 15447.0,
+            "2020-produccion": 114848.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2020-superficie": 4604.0,
+            "2020-produccion": 13796.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2020-superficie": 14138.0,
+            "2020-produccion": 39783.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2020-superficie": 320.0,
+            "2020-produccion": 3214.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2020-superficie": 2407.0,
+            "2020-produccion": 61317.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2020-superficie": 649.0,
+            "2020-produccion": 9346.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2020-superficie": 4020.0,
+            "2020-produccion": 59089.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2020-superficie": 251.0,
+            "2020-produccion": 12702.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2020-superficie": 2983.0,
+            "2020-produccion": 68331.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2020-superficie": 1812.0,
+            "2020-produccion": 66702.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2020-superficie": 1175.0,
+            "2020-produccion": 56038.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2020-superficie": 1412.0,
+            "2020-produccion": 34359.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2020-superficie": 604.0,
+            "2020-produccion": 16116.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2020-superficie": 438.0,
+            "2020-produccion": 8781.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2020-superficie": 634.0,
+            "2020-produccion": 6669.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2020-superficie": 400.0,
+            "2020-produccion": 6734.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2020-superficie": 2052.0,
+            "2020-produccion": 68450.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2020-superficie": 1439.0,
+            "2020-produccion": 38549.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2020-superficie": 153.0,
+            "2020-produccion": 6722.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2020-superficie": 839.0,
+            "2020-produccion": 69808.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2020-superficie": 1618.0,
+            "2020-produccion": 75112.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2020-superficie": 1105.0,
+            "2020-produccion": 68530.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2020-superficie": 1374.0,
+            "2020-produccion": 59442.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2020-superficie": 97.0,
+            "2020-produccion": 2430.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2020-superficie": 1761.0,
+            "2020-produccion": 78602.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2020-superficie": 70509.0,
+            "2020-produccion": 1579435.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2020-superficie": 71395.0,
+            "2020-produccion": 1574163.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2020-superficie": 15108.0,
+            "2020-produccion": 296089.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2020-superficie": 604.0,
+            "2020-produccion": 6113.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2020-superficie": 341.0,
+            "2020-produccion": 3796.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2020-superficie": 1025.0,
+            "2020-produccion": 13509.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2020-superficie": 3594.0,
+            "2020-produccion": 18380.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2020-superficie": 2494.0,
+            "2020-produccion": 2145.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2020-superficie": 4085.0,
+            "2020-produccion": 30846.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2020-superficie": 1570.0,
+            "2020-produccion": 12701.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2020-superficie": 3761.0,
+            "2020-produccion": 51325.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2020-superficie": 16073.0,
+            "2020-produccion": 428608.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2020-superficie": 1467.0,
+            "2020-produccion": 4605.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2020-superficie": 93441.0,
+            "2020-produccion": 29571.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2020-superficie": 5494.0,
+            "2020-produccion": 111640.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2020-superficie": 57876.0,
+            "2020-produccion": 362626.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2020-superficie": 93953.0,
+            "2020-produccion": 134136.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2020-superficie": 17200.0,
+            "2020-produccion": 13284.0
+        },
+        {
+            "CULTIVOS": "ARROZ (CÁSCARA)",
+            "2020-superficie": 416.0,
+            "2020-produccion": 1174.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2020-superficie": 1388.0,
+            "2020-produccion": 4803.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2020-superficie": 3008.0,
+            "2020-produccion": 8426.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2020-superficie": 141.0,
+            "2020-produccion": 1680.0
+        },
+        {
+            "CULTIVOS": "PATATA TOTAL",
+            "2020-superficie": 953.0,
+            "2020-produccion": 25351.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2020-superficie": 0.0,
+            "2020-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2020-superficie": 1943.0,
+            "2020-produccion": 29339.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2020-superficie": 57.0,
+            "2020-produccion": 2990.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2020-superficie": 2892.0,
+            "2020-produccion": 66516.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2020-superficie": 463.0,
+            "2020-produccion": 19620.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2020-superficie": 158.0,
+            "2020-produccion": 6314.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2020-superficie": 445.0,
+            "2020-produccion": 11125.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2020-superficie": 215.0,
+            "2020-produccion": 7095.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2020-superficie": 235.0,
+            "2020-produccion": 5270.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2020-superficie": 480.0,
+            "2020-produccion": 5760.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2020-superficie": 46.0,
+            "2020-produccion": 690.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2020-superficie": 1199.0,
+            "2020-produccion": 40034.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2020-superficie": 1037.0,
+            "2020-produccion": 27595.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2020-superficie": 60.0,
+            "2020-produccion": 3200.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2020-superficie": 376.0,
+            "2020-produccion": 43120.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2020-superficie": 341.0,
+            "2020-produccion": 22847.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2020-superficie": 410.0,
+            "2020-produccion": 43125.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2020-superficie": 773.0,
+            "2020-produccion": 49714.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2020-superficie": 78.0,
+            "2020-produccion": 1936.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2020-superficie": 344.0,
+            "2020-produccion": 19344.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2020-superficie": 10223.0,
+            "2020-produccion": 216764.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2020-superficie": 7512.0,
+            "2020-produccion": 134219.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2020-superficie": 14836.0,
+            "2020-produccion": 294335.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2020-superficie": 419.0,
+            "2020-produccion": 3831.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2020-superficie": 151.0,
+            "2020-produccion": 1933.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2020-superficie": 806.0,
+            "2020-produccion": 12466.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2020-superficie": 617.0,
+            "2020-produccion": 3671.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2020-superficie": 1850.0,
+            "2020-produccion": 1824.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2020-superficie": 429.0,
+            "2020-produccion": 3828.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2020-superficie": 331.0,
+            "2020-produccion": 2375.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2020-superficie": 3013.0,
+            "2020-produccion": 45120.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2020-superficie": 78.0,
+            "2020-produccion": 325.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2020-superficie": 295.0,
+            "2020-produccion": 2025.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2020-superficie": 22861.0,
+            "2020-produccion": 12073.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2020-superficie": 5248.0,
+            "2020-produccion": 111251.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2020-superficie": 10294.0,
+            "2020-produccion": 33737.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2020-superficie": 29013.0,
+            "2020-produccion": 48307.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2020-superficie": 715.0,
+            "2020-produccion": 784.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2020-superficie": 153.0,
+            "2020-produccion": 1188.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2020-superficie": 795.0,
+            "2020-produccion": 1741.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2020-superficie": 3013.0,
+            "2020-produccion": 6131.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2020-superficie": 100.0,
+            "2020-produccion": 352.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2020-superficie": 444.0,
+            "2020-produccion": 11173.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2020-superficie": 0.0,
+            "2020-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2020-superficie": 1055.0,
+            "2020-produccion": 15134.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2020-superficie": 73.0,
+            "2020-produccion": 2093.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2020-superficie": 91.0,
+            "2020-produccion": 1815.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2020-superficie": 229.0,
+            "2020-produccion": 4929.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2020-superficie": 465.0,
+            "2020-produccion": 15249.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2020-superficie": 351.0,
+            "2020-produccion": 8336.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2020-superficie": 270.0,
+            "2020-produccion": 6413.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2020-superficie": 11.0,
+            "2020-produccion": 235.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2020-superficie": 63.0,
+            "2020-produccion": 454.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2020-superficie": 264.0,
+            "2020-produccion": 4656.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2020-superficie": 389.0,
+            "2020-produccion": 8466.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2020-superficie": 298.0,
+            "2020-produccion": 6863.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2020-superficie": 70.0,
+            "2020-produccion": 2218.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2020-superficie": 99.0,
+            "2020-produccion": 2461.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2020-superficie": 458.0,
+            "2020-produccion": 11976.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2020-superficie": 507.0,
+            "2020-produccion": 16774.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2020-superficie": 354.0,
+            "2020-produccion": 6818.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2020-superficie": 5.0,
+            "2020-produccion": 135.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2020-superficie": 360.0,
+            "2020-produccion": 29193.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2020-superficie": 6486.0,
+            "2020-produccion": 118369.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2020-superficie": 27079.0,
+            "2020-produccion": 652267.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2020-superficie": 71.0,
+            "2020-produccion": 321.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2020-superficie": 74.0,
+            "2020-produccion": 636.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2020-superficie": 148.0,
+            "2020-produccion": 1506.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2020-superficie": 153.0,
+            "2020-produccion": 699.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2020-superficie": 187.0,
+            "2020-produccion": 699.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2020-superficie": 559.0,
+            "2020-produccion": 207.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2020-superficie": 352.0,
+            "2020-produccion": 1826.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2020-superficie": 100.0,
+            "2020-produccion": 616.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2020-superficie": 103.0,
+            "2020-produccion": 311.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2020-superficie": 165.0,
+            "2020-produccion": 1850.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2020-superficie": 282.0,
+            "2020-produccion": 522.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2020-superficie": 36324.0,
+            "2020-produccion": 5974.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2020-superficie": 66.0,
+            "2020-produccion": 168.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2020-superficie": 774.0,
+            "2020-produccion": 1466.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2020-superficie": 32743.0,
+            "2020-produccion": 42831.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2020-superficie": 7761.0,
+            "2020-produccion": 4402.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2020-superficie": 14878.0,
+            "2020-produccion": 112486.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2020-superficie": 2421.0,
+            "2020-produccion": 7252.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2020-superficie": 8117.0,
+            "2020-produccion": 25226.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2020-superficie": 79.0,
+            "2020-produccion": 1182.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2020-superficie": 1010.0,
+            "2020-produccion": 24793.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2020-superficie": 649.0,
+            "2020-produccion": 9346.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2020-superficie": 1022.0,
+            "2020-produccion": 14616.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2020-superficie": 121.0,
+            "2020-produccion": 7619.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2020-superficie": 0.0,
+            "2020-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2020-superficie": 1120.0,
+            "2020-produccion": 42153.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2020-superficie": 552.0,
+            "2020-produccion": 34475.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2020-superficie": 616.0,
+            "2020-produccion": 14898.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2020-superficie": 119.0,
+            "2020-produccion": 2608.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2020-superficie": 192.0,
+            "2020-produccion": 3276.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2020-superficie": 91.0,
+            "2020-produccion": 455.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2020-superficie": 90.0,
+            "2020-produccion": 1388.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2020-superficie": 464.0,
+            "2020-produccion": 19950.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2020-superficie": 104.0,
+            "2020-produccion": 4091.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2020-superficie": 23.0,
+            "2020-produccion": 1304.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2020-superficie": 364.0,
+            "2020-produccion": 24227.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2020-superficie": 819.0,
+            "2020-produccion": 40289.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2020-superficie": 188.0,
+            "2020-produccion": 8631.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2020-superficie": 247.0,
+            "2020-produccion": 2910.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2020-superficie": 14.0,
+            "2020-produccion": 359.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2020-superficie": 1057.0,
+            "2020-produccion": 30065.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2020-superficie": 53800.0,
+            "2020-produccion": 1244302.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2020-superficie": 36804.0,
+            "2020-produccion": 787677.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2020-superficie": 201.0,
+            "2020-produccion": 1433.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2020-superficie": 111.0,
+            "2020-produccion": 1646.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2020-superficie": 42.0,
+            "2020-produccion": 357.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2020-superficie": 66.0,
+            "2020-produccion": 344.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2020-superficie": 2790.0,
+            "2020-produccion": 14010.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2020-superficie": 85.0,
+            "2020-produccion": 114.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2020-superficie": 3304.0,
+            "2020-produccion": 25192.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2020-superficie": 1139.0,
+            "2020-produccion": 9710.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2020-superficie": 645.0,
+            "2020-produccion": 5894.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2020-superficie": 15830.0,
+            "2020-produccion": 426433.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2020-superficie": 890.0,
+            "2020-produccion": 2058.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2020-superficie": 34256.0,
+            "2020-produccion": 11524.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2020-superficie": 180.0,
+            "2020-produccion": 221.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2020-superficie": 46808.0,
+            "2020-produccion": 327423.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2020-superficie": 32197.0,
+            "2020-produccion": 42998.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2020-superficie": 8724.0,
+            "2020-produccion": 8098.0
+        }
+    ]
+}

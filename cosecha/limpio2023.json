@@ -1,0 +1,864 @@
+{
+    "COMUNIDAD VALENCIANA": [
+        {
+            "CULTIVOS": "ARROZ",
+            "2023-superficie": 15365.0,
+            "2023-produccion": 95943.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2023-superficie": 5578.0,
+            "2023-produccion": 3997.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2023-superficie": 12796.0,
+            "2023-produccion": 9111.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2023-superficie": 296.0,
+            "2023-produccion": 3336.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2023-superficie": 2426.0,
+            "2023-produccion": 80723.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2023-superficie": 582.0,
+            "2023-produccion": 7159.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2023-superficie": 4885.0,
+            "2023-produccion": 73795.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2023-superficie": 235.0,
+            "2023-produccion": 11954.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2023-superficie": 3317.0,
+            "2023-produccion": 65789.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2023-superficie": 1728.0,
+            "2023-produccion": 89726.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2023-superficie": 1759.0,
+            "2023-produccion": 68005.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2023-superficie": 1443.0,
+            "2023-produccion": 36763.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2023-superficie": 449.0,
+            "2023-produccion": 13602.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2023-superficie": 384.0,
+            "2023-produccion": 8803.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2023-superficie": 441.0,
+            "2023-produccion": 5198.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2023-superficie": 231.0,
+            "2023-produccion": 4838.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2023-superficie": 1680.0,
+            "2023-produccion": 59495.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2023-superficie": 1200.0,
+            "2023-produccion": 34739.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2023-superficie": 132.0,
+            "2023-produccion": 5881.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2023-superficie": 911.0,
+            "2023-produccion": 69431.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2023-superficie": 1404.0,
+            "2023-produccion": 61392.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2023-superficie": 1037.0,
+            "2023-produccion": 59101.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2023-superficie": 1313.0,
+            "2023-produccion": 63222.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2023-superficie": 72.0,
+            "2023-produccion": 2725.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2023-superficie": 4546.0,
+            "2023-produccion": 104728.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2023-superficie": 71190.0,
+            "2023-produccion": 1288026.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2023-superficie": 64132.0,
+            "2023-produccion": 1145194.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2023-superficie": 16907.0,
+            "2023-produccion": 351973.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2023-superficie": 489.0,
+            "2023-produccion": 7141.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2023-superficie": 221.0,
+            "2023-produccion": 3547.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2023-superficie": 1031.0,
+            "2023-produccion": 14954.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2023-superficie": 2847.0,
+            "2023-produccion": 20775.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2023-superficie": 2486.0,
+            "2023-produccion": 9512.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2023-superficie": 3381.0,
+            "2023-produccion": 37413.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2023-superficie": 1288.0,
+            "2023-produccion": 12717.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2023-superficie": 3516.0,
+            "2023-produccion": 70432.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2023-superficie": 14263.0,
+            "2023-produccion": 406665.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2023-superficie": 2874.0,
+            "2023-produccion": 17401.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2023-superficie": 88586.0,
+            "2023-produccion": 38670.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2023-superficie": 5276.0,
+            "2023-produccion": 92065.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2023-superficie": 56391.0,
+            "2023-produccion": 200076.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2023-superficie": 91236.0,
+            "2023-produccion": 121810.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2023-superficie": 16849.0,
+            "2023-produccion": 13527.0
+        },
+        {
+            "CULTIVOS": "ARROZ (CÁSCARA)",
+            "2023-superficie": 430.0,
+            "2023-produccion": 1417.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2023-superficie": 1682.0,
+            "2023-produccion": 1498.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2023-superficie": 2494.0,
+            "2023-produccion": 2497.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2023-superficie": 180.0,
+            "2023-produccion": 2250.0
+        },
+        {
+            "CULTIVOS": "PATATA TOTAL",
+            "2023-superficie": 946.0,
+            "2023-produccion": 30194.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2023-superficie": 0.0,
+            "2023-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2023-superficie": 2689.0,
+            "2023-produccion": 37991.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2023-superficie": 42.0,
+            "2023-produccion": 2161.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2023-superficie": 3010.0,
+            "2023-produccion": 60483.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2023-superficie": 431.0,
+            "2023-produccion": 18604.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2023-superficie": 501.0,
+            "2023-produccion": 15112.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2023-superficie": 553.0,
+            "2023-produccion": 14210.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2023-superficie": 132.0,
+            "2023-produccion": 4443.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2023-superficie": 185.0,
+            "2023-produccion": 4233.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2023-superficie": 293.0,
+            "2023-produccion": 3586.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2023-superficie": 42.0,
+            "2023-produccion": 630.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2023-superficie": 886.0,
+            "2023-produccion": 30400.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2023-superficie": 920.0,
+            "2023-produccion": 25738.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2023-superficie": 46.0,
+            "2023-produccion": 2404.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2023-superficie": 421.0,
+            "2023-produccion": 41596.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2023-superficie": 270.0,
+            "2023-produccion": 12610.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2023-superficie": 327.0,
+            "2023-produccion": 31780.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2023-superficie": 900.0,
+            "2023-produccion": 56466.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2023-superficie": 53.0,
+            "2023-produccion": 1948.0
+        },
+        {
+            "CULTIVOS": "PLANTAS DE VIVERO (1)",
+            "2023-superficie": 2403.0,
+            "2023-produccion": 22336.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2023-superficie": 10243.0,
+            "2023-produccion": 190129.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2023-superficie": 6829.0,
+            "2023-produccion": 127226.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2023-superficie": 16516.0,
+            "2023-produccion": 348474.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2023-superficie": 361.0,
+            "2023-produccion": 5625.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2023-superficie": 113.0,
+            "2023-produccion": 2157.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2023-superficie": 882.0,
+            "2023-produccion": 13338.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2023-superficie": 585.0,
+            "2023-produccion": 4050.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2023-superficie": 1927.0,
+            "2023-produccion": 7599.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2023-superficie": 415.0,
+            "2023-produccion": 4582.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2023-superficie": 318.0,
+            "2023-produccion": 3558.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2023-superficie": 2918.0,
+            "2023-produccion": 61469.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2023-superficie": 87.0,
+            "2023-produccion": 355.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2023-superficie": 606.0,
+            "2023-produccion": 2053.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2023-superficie": 22059.0,
+            "2023-produccion": 9763.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2023-superficie": 5053.0,
+            "2023-produccion": 91812.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2023-superficie": 10093.0,
+            "2023-produccion": 19116.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2023-superficie": 29380.0,
+            "2023-produccion": 42500.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2023-superficie": 674.0,
+            "2023-produccion": 1101.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2023-superficie": 152.0,
+            "2023-produccion": 673.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2023-superficie": 883.0,
+            "2023-produccion": 658.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2023-superficie": 2653.0,
+            "2023-produccion": 2838.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2023-superficie": 36.0,
+            "2023-produccion": 94.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2023-superficie": 433.0,
+            "2023-produccion": 10255.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2023-superficie": 0.0,
+            "2023-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2023-superficie": 1169.0,
+            "2023-produccion": 14237.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2023-superficie": 74.0,
+            "2023-produccion": 2296.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2023-superficie": 209.0,
+            "2023-produccion": 4130.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2023-superficie": 186.0,
+            "2023-produccion": 4462.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2023-superficie": 447.0,
+            "2023-produccion": 16480.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2023-superficie": 279.0,
+            "2023-produccion": 6056.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2023-superficie": 199.0,
+            "2023-produccion": 4911.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2023-superficie": 6.0,
+            "2023-produccion": 131.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2023-superficie": 62.0,
+            "2023-produccion": 580.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2023-superficie": 108.0,
+            "2023-produccion": 2246.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2023-superficie": 320.0,
+            "2023-produccion": 7478.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2023-superficie": 189.0,
+            "2023-produccion": 5725.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2023-superficie": 67.0,
+            "2023-produccion": 2143.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2023-superficie": 110.0,
+            "2023-produccion": 3130.0
+        },
+        {
+            "CULTIVOS": "Sandía",
+            "2023-superficie": 258.0,
+            "2023-produccion": 9172.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2023-superficie": 502.0,
+            "2023-produccion": 18471.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2023-superficie": 246.0,
+            "2023-produccion": 3685.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2023-superficie": 5.0,
+            "2023-produccion": 225.0
+        },
+        {
+            "CULTIVOS": "PLANTAS DE VIVERO (1)",
+            "2023-superficie": 461.0,
+            "2023-produccion": 34076.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2023-superficie": 7259.0,
+            "2023-produccion": 133232.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2023-superficie": 24337.0,
+            "2023-produccion": 434073.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2023-superficie": 87.0,
+            "2023-produccion": 770.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2023-superficie": 53.0,
+            "2023-produccion": 393.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2023-superficie": 72.0,
+            "2023-produccion": 805.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2023-superficie": 113.0,
+            "2023-produccion": 1022.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2023-superficie": 131.0,
+            "2023-produccion": 706.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2023-superficie": 470.0,
+            "2023-produccion": 1777.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2023-superficie": 316.0,
+            "2023-produccion": 2260.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2023-superficie": 80.0,
+            "2023-produccion": 579.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2023-superficie": 118.0,
+            "2023-produccion": 2355.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2023-superficie": 126.0,
+            "2023-produccion": 1914.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2023-superficie": 758.0,
+            "2023-produccion": 3675.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2023-superficie": 30894.0,
+            "2023-produccion": 8943.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2023-superficie": 35.0,
+            "2023-produccion": 71.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2023-superficie": 728.0,
+            "2023-produccion": 498.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2023-superficie": 29998.0,
+            "2023-produccion": 43669.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2023-superficie": 7325.0,
+            "2023-produccion": 3319.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2023-superficie": 14783.0,
+            "2023-produccion": 93853.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2023-superficie": 3013.0,
+            "2023-produccion": 1841.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2023-superficie": 7649.0,
+            "2023-produccion": 3776.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2023-superficie": 80.0,
+            "2023-produccion": 992.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2023-superficie": 1047.0,
+            "2023-produccion": 40274.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2023-superficie": 582.0,
+            "2023-produccion": 7159.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2023-superficie": 1027.0,
+            "2023-produccion": 21567.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2023-superficie": 119.0,
+            "2023-produccion": 7497.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2023-superficie": 98.0,
+            "2023-produccion": 1176.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2023-superficie": 1111.0,
+            "2023-produccion": 66660.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2023-superficie": 811.0,
+            "2023-produccion": 36413.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2023-superficie": 611.0,
+            "2023-produccion": 16497.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2023-superficie": 118.0,
+            "2023-produccion": 4248.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2023-superficie": 193.0,
+            "2023-produccion": 4439.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2023-superficie": 86.0,
+            "2023-produccion": 1032.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2023-superficie": 81.0,
+            "2023-produccion": 1962.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2023-superficie": 474.0,
+            "2023-produccion": 21617.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2023-superficie": 91.0,
+            "2023-produccion": 3276.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2023-superficie": 19.0,
+            "2023-produccion": 1334.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2023-superficie": 380.0,
+            "2023-produccion": 24705.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2023-superficie": 876.0,
+            "2023-produccion": 39610.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2023-superficie": 208.0,
+            "2023-produccion": 8850.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2023-superficie": 167.0,
+            "2023-produccion": 3071.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2023-superficie": 14.0,
+            "2023-produccion": 552.0
+        },
+        {
+            "CULTIVOS": "PLANTAS DE VIVERO (1)",
+            "2023-superficie": 1682.0,
+            "2023-produccion": 48316.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2023-superficie": 53688.0,
+            "2023-produccion": 964665.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2023-superficie": 32966.0,
+            "2023-produccion": 583895.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2023-superficie": 304.0,
+            "2023-produccion": 2729.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2023-superficie": 75.0,
+            "2023-produccion": 1123.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2023-superficie": 36.0,
+            "2023-produccion": 585.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2023-superficie": 36.0,
+            "2023-produccion": 594.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2023-superficie": 2131.0,
+            "2023-produccion": 16019.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2023-superficie": 89.0,
+            "2023-produccion": 136.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2023-superficie": 2650.0,
+            "2023-produccion": 30571.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2023-superficie": 890.0,
+            "2023-produccion": 8580.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2023-superficie": 480.0,
+            "2023-produccion": 6608.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2023-superficie": 14050.0,
+            "2023-produccion": 404396.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2023-superficie": 1510.0,
+            "2023-produccion": 11673.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2023-superficie": 35633.0,
+            "2023-produccion": 19964.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2023-superficie": 188.0,
+            "2023-produccion": 182.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2023-superficie": 45570.0,
+            "2023-produccion": 180462.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2023-superficie": 31858.0,
+            "2023-produccion": 35641.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2023-superficie": 8850.0,
+            "2023-produccion": 9107.0
+        }
+    ]
+}

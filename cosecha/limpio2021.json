@@ -1,0 +1,864 @@
+{
+    "COMUNIDAD VALENCIANA": [
+        {
+            "CULTIVOS": "ARROZ",
+            "2021-superficie": 15282.0,
+            "2021-produccion": 115512.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2021-superficie": 4889.0,
+            "2021-produccion": 15674.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2021-superficie": 14372.0,
+            "2021-produccion": 40919.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2021-superficie": 273.0,
+            "2021-produccion": 2571.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2021-superficie": 2371.0,
+            "2021-produccion": 77085.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2021-superficie": 608.0,
+            "2021-produccion": 9485.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2021-superficie": 4570.0,
+            "2021-produccion": 68681.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2021-superficie": 249.0,
+            "2021-produccion": 12326.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2021-superficie": 3133.0,
+            "2021-produccion": 67513.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2021-superficie": 1738.0,
+            "2021-produccion": 104826.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2021-superficie": 1718.0,
+            "2021-produccion": 67313.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2021-superficie": 1446.0,
+            "2021-produccion": 36499.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2021-superficie": 537.0,
+            "2021-produccion": 15051.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2021-superficie": 428.0,
+            "2021-produccion": 9277.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2021-superficie": 559.0,
+            "2021-produccion": 5966.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2021-superficie": 382.0,
+            "2021-produccion": 5476.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2021-superficie": 2011.0,
+            "2021-produccion": 69070.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2021-superficie": 1374.0,
+            "2021-produccion": 41676.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2021-superficie": 147.0,
+            "2021-produccion": 6345.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2021-superficie": 891.0,
+            "2021-produccion": 70879.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2021-superficie": 1577.0,
+            "2021-produccion": 76470.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2021-superficie": 1101.0,
+            "2021-produccion": 67932.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2021-superficie": 1424.0,
+            "2021-produccion": 62638.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2021-superficie": 79.0,
+            "2021-produccion": 2951.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2021-superficie": 1870.0,
+            "2021-produccion": 97516.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2021-superficie": 70662.0,
+            "2021-produccion": 1609337.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2021-superficie": 69527.0,
+            "2021-produccion": 1337837.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2021-superficie": 16392.0,
+            "2021-produccion": 268079.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2021-superficie": 576.0,
+            "2021-produccion": 6988.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2021-superficie": 321.0,
+            "2021-produccion": 3822.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2021-superficie": 1057.0,
+            "2021-produccion": 15728.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2021-superficie": 3253.0,
+            "2021-produccion": 24295.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2021-superficie": 2522.0,
+            "2021-produccion": 6977.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2021-superficie": 3969.0,
+            "2021-produccion": 36515.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2021-superficie": 1483.0,
+            "2021-produccion": 12243.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2021-superficie": 3716.0,
+            "2021-produccion": 58859.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2021-superficie": 15141.0,
+            "2021-produccion": 425339.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2021-superficie": 2093.0,
+            "2021-produccion": 8993.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2021-superficie": 92408.0,
+            "2021-produccion": 33297.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2021-superficie": 5457.0,
+            "2021-produccion": 100046.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2021-superficie": 57436.0,
+            "2021-produccion": 315824.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2021-superficie": 94104.0,
+            "2021-produccion": 130182.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2021-superficie": 17179.0,
+            "2021-produccion": 12699.0
+        },
+        {
+            "CULTIVOS": "ARROZ (CÁSCARA)",
+            "2021-superficie": 435.0,
+            "2021-produccion": 1193.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2021-superficie": 1570.0,
+            "2021-produccion": 5651.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2021-superficie": 3020.0,
+            "2021-produccion": 8459.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2021-superficie": 71.0,
+            "2021-produccion": 852.0
+        },
+        {
+            "CULTIVOS": "PATATA TOTAL",
+            "2021-superficie": 934.0,
+            "2021-produccion": 26075.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2021-superficie": 0.0,
+            "2021-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2021-superficie": 2411.0,
+            "2021-produccion": 34538.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2021-superficie": 57.0,
+            "2021-produccion": 2990.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2021-superficie": 3036.0,
+            "2021-produccion": 65578.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2021-superficie": 404.0,
+            "2021-produccion": 17118.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2021-superficie": 321.0,
+            "2021-produccion": 13278.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2021-superficie": 472.0,
+            "2021-produccion": 11800.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2021-superficie": 190.0,
+            "2021-produccion": 6270.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2021-superficie": 225.0,
+            "2021-produccion": 5625.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2021-superficie": 408.0,
+            "2021-produccion": 4896.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2021-superficie": 42.0,
+            "2021-produccion": 630.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2021-superficie": 1159.0,
+            "2021-produccion": 40410.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2021-superficie": 978.0,
+            "2021-produccion": 30765.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2021-superficie": 55.0,
+            "2021-produccion": 2850.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2021-superficie": 413.0,
+            "2021-produccion": 44650.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2021-superficie": 318.0,
+            "2021-produccion": 21306.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2021-superficie": 422.0,
+            "2021-produccion": 43845.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2021-superficie": 832.0,
+            "2021-produccion": 53195.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2021-superficie": 60.0,
+            "2021-produccion": 2274.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2021-superficie": 344.0,
+            "2021-produccion": 17407.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2021-superficie": 10024.0,
+            "2021-produccion": 222108.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2021-superficie": 7320.0,
+            "2021-produccion": 156213.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2021-superficie": 16088.0,
+            "2021-produccion": 266250.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2021-superficie": 393.0,
+            "2021-produccion": 4899.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2021-superficie": 141.0,
+            "2021-produccion": 1733.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2021-superficie": 856.0,
+            "2021-produccion": 14868.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2021-superficie": 597.0,
+            "2021-produccion": 6584.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2021-superficie": 1871.0,
+            "2021-produccion": 5977.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2021-superficie": 429.0,
+            "2021-produccion": 4084.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2021-superficie": 331.0,
+            "2021-produccion": 1598.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2021-superficie": 3044.0,
+            "2021-produccion": 51912.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2021-superficie": 87.0,
+            "2021-produccion": 960.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2021-superficie": 363.0,
+            "2021-produccion": 2187.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2021-superficie": 22503.0,
+            "2021-produccion": 14716.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2021-superficie": 5264.0,
+            "2021-produccion": 99748.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2021-superficie": 10246.0,
+            "2021-produccion": 29018.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2021-superficie": 29563.0,
+            "2021-produccion": 45038.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2021-superficie": 729.0,
+            "2021-produccion": 941.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2021-superficie": 153.0,
+            "2021-produccion": 1190.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2021-superficie": 700.0,
+            "2021-produccion": 1536.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2021-superficie": 3038.0,
+            "2021-produccion": 5795.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2021-superficie": 104.0,
+            "2021-produccion": 347.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2021-superficie": 431.0,
+            "2021-produccion": 11013.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2021-superficie": 0.0,
+            "2021-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2021-superficie": 1140.0,
+            "2021-produccion": 13771.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2021-superficie": 71.0,
+            "2021-produccion": 1768.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2021-superficie": 97.0,
+            "2021-produccion": 1935.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2021-superficie": 206.0,
+            "2021-produccion": 4435.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2021-superficie": 484.0,
+            "2021-produccion": 15178.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2021-superficie": 358.0,
+            "2021-produccion": 8503.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2021-superficie": 229.0,
+            "2021-produccion": 4580.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2021-superficie": 10.0,
+            "2021-produccion": 214.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2021-superficie": 60.0,
+            "2021-produccion": 531.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2021-superficie": 250.0,
+            "2021-produccion": 4188.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2021-superficie": 385.0,
+            "2021-produccion": 7629.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2021-superficie": 292.0,
+            "2021-produccion": 6725.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2021-superficie": 69.0,
+            "2021-produccion": 2190.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2021-superficie": 114.0,
+            "2021-produccion": 2569.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2021-superficie": 442.0,
+            "2021-produccion": 9744.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2021-superficie": 491.0,
+            "2021-produccion": 15461.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2021-superficie": 345.0,
+            "2021-produccion": 6345.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2021-superficie": 5.0,
+            "2021-produccion": 125.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2021-superficie": 370.0,
+            "2021-produccion": 31529.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2021-superficie": 6421.0,
+            "2021-produccion": 119219.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2021-superficie": 25816.0,
+            "2021-produccion": 451299.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2021-superficie": 78.0,
+            "2021-produccion": 364.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2021-superficie": 77.0,
+            "2021-produccion": 581.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2021-superficie": 148.0,
+            "2021-produccion": 1513.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2021-superficie": 152.0,
+            "2021-produccion": 632.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2021-superficie": 187.0,
+            "2021-produccion": 870.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2021-superficie": 570.0,
+            "2021-produccion": 871.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2021-superficie": 356.0,
+            "2021-produccion": 1731.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2021-superficie": 97.0,
+            "2021-produccion": 598.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2021-superficie": 115.0,
+            "2021-produccion": 1494.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2021-superficie": 159.0,
+            "2021-produccion": 2160.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2021-superficie": 575.0,
+            "2021-produccion": 2100.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2021-superficie": 35424.0,
+            "2021-produccion": 5682.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2021-superficie": 44.0,
+            "2021-produccion": 110.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2021-superficie": 747.0,
+            "2021-produccion": 1438.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2021-superficie": 32628.0,
+            "2021-produccion": 38285.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2021-superficie": 7720.0,
+            "2021-produccion": 3650.0
+        },
+        {
+            "CULTIVOS": "ARROZ",
+            "2021-superficie": 14694.0,
+            "2021-produccion": 113129.0
+        },
+        {
+            "CULTIVOS": "TRIGO",
+            "2021-superficie": 2619.0,
+            "2021-produccion": 8487.0
+        },
+        {
+            "CULTIVOS": "CEBADA",
+            "2021-superficie": 8314.0,
+            "2021-produccion": 26665.0
+        },
+        {
+            "CULTIVOS": "MAÍZ",
+            "2021-superficie": 98.0,
+            "2021-produccion": 1372.0
+        },
+        {
+            "CULTIVOS": "PATATA",
+            "2021-superficie": 1006.0,
+            "2021-produccion": 39997.0
+        },
+        {
+            "CULTIVOS": "CHUFA",
+            "2021-superficie": 608.0,
+            "2021-produccion": 9485.0
+        },
+        {
+            "CULTIVOS": "ALCACHOFA",
+            "2021-superficie": 1019.0,
+            "2021-produccion": 20372.0
+        },
+        {
+            "CULTIVOS": "BERENJENA",
+            "2021-superficie": 121.0,
+            "2021-produccion": 7568.0
+        },
+        {
+            "CULTIVOS": "BRÓCULI",
+            "2021-superficie": 0.0,
+            "2021-produccion": 0.0
+        },
+        {
+            "CULTIVOS": "CEBOLLA",
+            "2021-superficie": 1128.0,
+            "2021-produccion": 83273.0
+        },
+        {
+            "CULTIVOS": "COL Y REPOLLO",
+            "2021-superficie": 913.0,
+            "2021-produccion": 38857.0
+        },
+        {
+            "CULTIVOS": "COLIFLOR",
+            "2021-superficie": 616.0,
+            "2021-produccion": 16196.0
+        },
+        {
+            "CULTIVOS": "ESCAROLA",
+            "2021-superficie": 118.0,
+            "2021-produccion": 4201.0
+        },
+        {
+            "CULTIVOS": "ESPINACA",
+            "2021-superficie": 193.0,
+            "2021-produccion": 3438.0
+        },
+        {
+            "CULTIVOS": "HABA VERDE",
+            "2021-superficie": 91.0,
+            "2021-produccion": 539.0
+        },
+        {
+            "CULTIVOS": "JUDÍA VERDE",
+            "2021-superficie": 90.0,
+            "2021-produccion": 658.0
+        },
+        {
+            "CULTIVOS": "LECHUGA",
+            "2021-superficie": 467.0,
+            "2021-produccion": 21031.0
+        },
+        {
+            "CULTIVOS": "MELÓN",
+            "2021-superficie": 104.0,
+            "2021-produccion": 4186.0
+        },
+        {
+            "CULTIVOS": "PEPINO",
+            "2021-superficie": 23.0,
+            "2021-produccion": 1305.0
+        },
+        {
+            "CULTIVOS": "PIMIENTO",
+            "2021-superficie": 364.0,
+            "2021-produccion": 23660.0
+        },
+        {
+            "CULTIVOS": "SANDÍA",
+            "2021-superficie": 817.0,
+            "2021-produccion": 45420.0
+        },
+        {
+            "CULTIVOS": "TOMATE",
+            "2021-superficie": 188.0,
+            "2021-produccion": 8626.0
+        },
+        {
+            "CULTIVOS": "ALFALFA",
+            "2021-superficie": 247.0,
+            "2021-produccion": 3098.0
+        },
+        {
+            "CULTIVOS": "FLORES (1)",
+            "2021-superficie": 14.0,
+            "2021-produccion": 552.0
+        },
+        {
+            "CULTIVOS": "P. ORNAMENTAL (1)",
+            "2021-superficie": 1156.0,
+            "2021-produccion": 48580.0
+        },
+        {
+            "CULTIVOS": "NARANJO DULCE",
+            "2021-superficie": 54217.0,
+            "2021-produccion": 1268010.0
+        },
+        {
+            "CULTIVOS": "MANDARINO",
+            "2021-superficie": 36391.0,
+            "2021-produccion": 730325.0
+        },
+        {
+            "CULTIVOS": "LIMONERO",
+            "2021-superficie": 226.0,
+            "2021-produccion": 1465.0
+        },
+        {
+            "CULTIVOS": "MANZANA",
+            "2021-superficie": 106.0,
+            "2021-produccion": 1508.0
+        },
+        {
+            "CULTIVOS": "PERA",
+            "2021-superficie": 32.0,
+            "2021-produccion": 576.0
+        },
+        {
+            "CULTIVOS": "NÍSPERO",
+            "2021-superficie": 49.0,
+            "2021-produccion": 228.0
+        },
+        {
+            "CULTIVOS": "ALBARICOQUE",
+            "2021-superficie": 2469.0,
+            "2021-produccion": 16841.0
+        },
+        {
+            "CULTIVOS": "CEREZA",
+            "2021-superficie": 81.0,
+            "2021-produccion": 129.0
+        },
+        {
+            "CULTIVOS": "MELOCOTÓN (3)",
+            "2021-superficie": 3184.0,
+            "2021-produccion": 30700.0
+        },
+        {
+            "CULTIVOS": "CIRUELA",
+            "2021-superficie": 1055.0,
+            "2021-produccion": 10047.0
+        },
+        {
+            "CULTIVOS": "GRANADA",
+            "2021-superficie": 557.0,
+            "2021-produccion": 5453.0
+        },
+        {
+            "CULTIVOS": "CAQUI",
+            "2021-superficie": 14895.0,
+            "2021-produccion": 422219.0
+        },
+        {
+            "CULTIVOS": "AGUACATE",
+            "2021-superficie": 1155.0,
+            "2021-produccion": 4706.0
+        },
+        {
+            "CULTIVOS": "ALMENDRA",
+            "2021-superficie": 34481.0,
+            "2021-produccion": 12899.0
+        },
+        {
+            "CULTIVOS": "UVA DE MESA",
+            "2021-superficie": 149.0,
+            "2021-produccion": 188.0
+        },
+        {
+            "CULTIVOS": "UVA DE VINIFICACIÓN",
+            "2021-superficie": 46443.0,
+            "2021-produccion": 285368.0
+        },
+        {
+            "CULTIVOS": "OLIVO",
+            "2021-superficie": 31913.0,
+            "2021-produccion": 46859.0
+        },
+        {
+            "CULTIVOS": "ALGARROBA (GARROFA)",
+            "2021-superficie": 8730.0,
+            "2021-produccion": 8108.0
+        }
+    ]
+}
