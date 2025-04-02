@@ -3,28 +3,32 @@ import joblib
 
 # Datos del olivo (puedes ajustar valores)
 datos_nuevos = pd.DataFrame([{
-    'Region': 'ALICANTE',
+    'Region': 'CASTELLON',
     'Cultivo': 'MANZANA',
     'Producto': 'MANZANA CONSUMO FRESCO',
-    'Superficie (ha)': 520.0,
+    'Superficie (ha)': 100.0,
     'Precipitacion Ene': 30.0,
-    'Precipitacion Feb': 0.0,
+    'Precipitacion Feb': 30.0,
     'Precipitacion Mar': 30.0,
     'Precipitacion Abr': 30.0,
     'Precipitacion May': 30.0,
     'Precipitacion Jun': 30.0,
     'Precipitacion Jul': 0.0,
-    'Precipitacion Ago': 30.0,
+    'Precipitacion Ago': 0.0,
     'Precipitacion Sep': 30.0,
     'Precipitacion Oct': 30.0,
     'Precipitacion Nov': 30.0,
     'Precipitacion Dic': 30.0,
     'Precipitacion Media': 400.0,
-    'Precipitacion Total': 300.0
+    'Precipitacion Total': 300.0,
+    'Precio Comunitat Valenciana': 0.5,
+    'Precio Alicante': 0.5,
+    'Precio Castellon': 0.8,
+    'Precio Valencia': 0.5
 }])
 
 # Cargar el modelo previamente entrenado
-modelo = joblib.load("modelo_random_forest.pkl")
+modelo = joblib.load("modelo_random_forest_opt.pkl")
 
 # Predecir
 prediccion = modelo.predict(datos_nuevos)
