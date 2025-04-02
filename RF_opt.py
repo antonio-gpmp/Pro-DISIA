@@ -19,7 +19,6 @@ df = pd.DataFrame(data)
 cat_cols = ["Region", "Cultivo", "Producto"]
 num_cols = [
     'Superficie (ha)',
-    'Precio Comunitat Valenciana', 'Precio Alicante', 'Precio Castellon', 'Precio Valencia',
     'Precipitacion Ene', 'Precipitacion Feb', 'Precipitacion Mar', 'Precipitacion Abr',
     'Precipitacion May', 'Precipitacion Jun', 'Precipitacion Jul', 'Precipitacion Ago',
     'Precipitacion Sep', 'Precipitacion Oct', 'Precipitacion Nov', 'Precipitacion Dic'
