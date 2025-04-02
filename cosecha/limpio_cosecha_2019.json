@@ -214,7 +214,9 @@
             "CULTIVOS": "ALGARROBA (GARROFA)",
             "2019-superficie": 17333.0,
             "2019-produccion": 8042.0
-        },
+        }
+    ],
+    "ALICANTE": [
         {
             "CULTIVOS": "ARROZ",
             "2019-superficie": 421.0,
@@ -429,7 +431,9 @@
             "CULTIVOS": "ALGARROBA (GARROFA)",
             "2019-superficie": 755.0,
             "2019-produccion": 632.0
-        },
+        }
+    ],
+    "CASTELLON": [
         {
             "CULTIVOS": "ARROZ",
             "2019-superficie": 153.0,
@@ -644,7 +648,9 @@
             "CULTIVOS": "ALGARROBA (GARROFA)",
             "2019-superficie": 7777.0,
             "2019-produccion": 3487.0
-        },
+        }
+    ],
+    "VALENCIA": [
         {
             "CULTIVOS": "ARROZ",
             "2019-superficie": 14836.0,

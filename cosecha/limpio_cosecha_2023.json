@@ -214,7 +214,9 @@
             "CULTIVOS": "ALGARROBA (GARROFA)",
             "2023-superficie": 16849.0,
             "2023-produccion": 13527.0
-        },
+        }
+    ],
+    "ALICANTE": [
         {
             "CULTIVOS": "ARROZ (CÁSCARA)",
             "2023-superficie": 430.0,
@@ -429,7 +431,9 @@
             "CULTIVOS": "ALGARROBA (GARROFA)",
             "2023-superficie": 674.0,
             "2023-produccion": 1101.0
-        },
+        }
+    ],
+    "CASTELLON": [
         {
             "CULTIVOS": "ARROZ",
             "2023-superficie": 152.0,
@@ -644,7 +648,9 @@
             "CULTIVOS": "ALGARROBA (GARROFA)",
             "2023-superficie": 7325.0,
             "2023-produccion": 3319.0
-        },
+        }
+    ],
+    "VALENCIA": [
         {
             "CULTIVOS": "ARROZ",
             "2023-superficie": 14783.0,
