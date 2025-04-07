@@ -20,15 +20,11 @@ datos_nuevos = pd.DataFrame([{
     'Precipitacion Nov': 30.0,
     'Precipitacion Dic': 30.0,
     'Precipitacion Media': 400.0,
-    'Precipitacion Total': 300.0,
-    'Precio Comunitat Valenciana': 0.5,
-    'Precio Alicante': 0.5,
-    'Precio Castellon': 0.8,
-    'Precio Valencia': 0.5
+    'Precipitacion Total': 300.0
 }])
 
 # Cargar el modelo previamente entrenado
-modelo = joblib.load("modelo_random_forest_opt.pkl")
+modelo = joblib.load("modelo_random_forest.pkl")
 
 # Predecir
 prediccion = modelo.predict(datos_nuevos)

@@ -14,37 +14,46 @@ from sklearn.metrics import (
     mean_absolute_percentage_error, r2_score
 )
 
-# 📥 Cargar datos JSON
+# Cargar datos
 with open("dataset_final_completo.json", encoding="utf-8") as f:
     data = json.load(f)
 df = pd.DataFrame(data)
 
-# 🧹 Filtrar outliers extremos
+# Filtrar producciones muy pequeñas
 df = df[df["Produccion (t)"] > 100]
 
-# 📊 Variables
+# Definir columnas categóricas, numéricas y objetivo
 cat_cols = ["Region", "Cultivo", "Producto"]
 num_cols = ["Superficie (ha)", "Precipitacion Total"]
 target = "Produccion (t)"
 X = df[cat_cols + num_cols]
 y = df[target]
 
-# ⚙️ Preprocesamiento
+# Preprocesamiento
 preprocessor = ColumnTransformer([
     ("cat", OneHotEncoder(handle_unknown="ignore"), cat_cols),
     ("num", StandardScaler(), num_cols)
 ])
 
-# 🔁 Pipeline
 pipeline = Pipeline([
     ("preprocessor", preprocessor),
     ("regressor", RandomForestRegressor(random_state=42))
 ])
 
-# 🧪 División del dataset
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+# Dividir datos: 70% train, 15% valid, 15% test
+X_train, X_temp, y_train, y_temp = train_test_split(X, y, test_size=0.30, random_state=42)
+X_val, X_test, y_val, y_test = train_test_split(X_temp, y_temp, test_size=0.50, random_state=42)
 
-# 🔍 Búsqueda de hiperparámetros
+# Mostrar tamaños de conjuntos
+print(f"Tamaño Train: {len(X_train)}")
+print(f"Tamaño Validación: {len(X_val)}")
+print(f"Tamaño Test: {len(X_test)}")
+
+# Combinar train + val para tuning con GridSearchCV
+X_train_val = pd.concat([X_train, X_val])
+y_train_val = pd.concat([y_train, y_val])
+
+# Hiperparámetros
 param_grid = {
     "regressor__n_estimators": [100, 200, 300],
     "regressor__max_depth": [10, 15, 20],
@@ -52,14 +61,21 @@ param_grid = {
     "regressor__min_samples_leaf": [1, 2]
 }
 
-grid_search = GridSearchCV(pipeline, param_grid, cv=3, scoring="neg_mean_absolute_error", verbose=1, n_jobs=-1)
-grid_search.fit(X_train, y_train)
+# GridSearchCV
+grid_search = GridSearchCV(
+    pipeline,
+    param_grid,
+    cv=3,
+    scoring="neg_mean_absolute_error",
+    verbose=1,
+    n_jobs=-1
+)
+grid_search.fit(X_train_val, y_train_val)
 
-# 🏆 Mejor modelo
+# Evaluación final en test
 best_model = grid_search.best_estimator_
 y_pred = best_model.predict(X_test)
 
-# 📈 Métricas
 mae = mean_absolute_error(y_test, y_pred)
 rmse = np.sqrt(mean_squared_error(y_test, y_pred))
 mape = mean_absolute_percentage_error(y_test, y_pred) * 100
@@ -72,11 +88,11 @@ print(f"RMSE: {rmse:.2f}")
 print(f"MAPE: {mape:.2f}%")
 print(f"R²: {r2:.4f}")
 
-# 💾 Guardar modelo
+# Guardar modelo
 joblib.dump(best_model, "random_forest_model.pkl")
 print("✅ Modelo guardado en 'random_forest_model.pkl'")
 
-# 📊 Gráfico Real vs Predicho
+# Gráfico Real vs Predicho
 plt.figure(figsize=(8, 8))
 plt.scatter(y_test, y_pred, alpha=0.5)
 plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], "r--")
@@ -89,7 +105,7 @@ plt.savefig("grafico_real_vs_predicho.png")
 print("📊 Gráfico guardado como 'grafico_real_vs_predicho.png'")
 plt.close()
 
-# 📉 Histograma de errores
+# Histograma de residuos
 residuals = y_test - y_pred
 plt.figure(figsize=(8, 5))
 plt.hist(residuals, bins=30, edgecolor="black")
@@ -101,7 +117,7 @@ plt.savefig("histograma_residuos.png")
 print("📉 Histograma guardado como 'histograma_residuos.png'")
 plt.close()
 
-# 🧠 Importancia de características
+# Importancia de características
 importances = best_model.named_steps["regressor"].feature_importances_
 feature_names = best_model.named_steps["preprocessor"].get_feature_names_out()
 feat_imp_df = pd.DataFrame({"Feature": feature_names, "Importance": importances})
