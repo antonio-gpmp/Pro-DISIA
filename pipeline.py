@@ -2,9 +2,12 @@ import os
 import subprocess
 
 # Función para ejecutar scripts individuales
-def ejecutar_script(script, input_file, output_file):
+def ejecutar_script(script, input_file, output_file, categoria):
     try:
-        subprocess.run(["python3", script, input_file, output_file], check=True)
+        if categoria == "cosecha":
+            subprocess.run(["python", script, "-i", input_file, "-o", output_file], check=True)
+        else:
+            subprocess.run(["python", script, input_file, output_file], check=True)
         print(f"✅ Procesado {input_file} → {output_file}")
     except subprocess.CalledProcessError as e:
         print(f"❌ Error procesando {input_file}: {e}")
@@ -18,14 +21,17 @@ directorios = {
 
 # Scripts correspondientes
 scripts = {
-    "cosecha": "./cosecha/transform_cosecha.py",
+    "cosecha": "./cosecha/trans_cosecha2.py",
     "meteo": "./meteo/transform_precipitation.py",
     "precios": "./precios/transform_precios.py"
 }
 
 # Procesamiento de archivos JSON
 for categoria, ruta_dir in directorios.items():
-    archivos = [f for f in os.listdir(ruta_dir) if f.endswith('.json') and not f.startswith('limpio_')]
+    if categoria == "cosecha":
+        archivos = [f for f in os.listdir(ruta_dir) if f.endswith('.csv') and not f.startswith('limpio_')]
+    else:
+        archivos = [f for f in os.listdir(ruta_dir) if f.endswith('.json') and not f.startswith('limpio_')]
     script = scripts[categoria]
 
     for archivo in archivos:
@@ -33,7 +39,8 @@ for categoria, ruta_dir in directorios.items():
 
         # Determinar el nombre del archivo limpio según la categoría
         if categoria == 'cosecha':
-            output_name = f"limpio_{archivo}"
+            año = archivo.split('_')[1].split('.')[0]
+            output_name = f"limpio_cosecha_{año}.json"
         elif categoria == "meteo":
             año = archivo.split('-')[1].split('.')[0]
             año_completo = f"20{año}"
@@ -44,11 +51,11 @@ for categoria, ruta_dir in directorios.items():
 
         output_path = os.path.join(ruta_dir, output_name)
 
-        ejecutar_script(script, input_path, output_path)
+        ejecutar_script(script, input_path, output_path, categoria)
 
 # Finalmente ejecutar script para dataset completo
 try:
-    subprocess.run(["python3", "transform_final.py"], check=True)
+    subprocess.run(["python", "transform_final_json.py"], check=True)
     print("✅ Generado dataset completo con éxito.")
 except subprocess.CalledProcessError as e:
     print(f"❌ Error al ejecutar transform_final.py: {e}")
